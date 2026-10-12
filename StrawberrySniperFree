@@ -1,3 +1,1224 @@
--- This file was protected using Dexfuscator v5.8 [.gg/dexfinder] [https://dexapi1.up.railway.app/obfuscate]
+-- INFIN Code Redeemer
+-- LocalScript / Executor
 
-return(function(...) local xCclFlWgoF=type local ulAmoGoMIEymle=pcall local N0gKEH0edOfOoDsa=xpcall local zdQuLoISomOXeRi=tostring local GDZKCJBBRVWi=error local jPBISAIFrlcAtEPji=warn local vtPbuTkySALoOvV=string local lKroEHVaDILDOlRK=table local ZIjtasSJBeqbxI=math local XJvBInDtkIA=rawequal local MxpCvzoZkOg=(function(caHbNkDHReptiB)local JvMfUpyjHL,JYjoeYGgut,pRLZyRHzqxGjkwI=string.char,string.find,table.concat return function(UlPJeUXKC) local KFINODoJmBekTN={} for ObNfVHTHjRmVEVL=1,#UlPJeUXKC,2 do KFINODoJmBekTN[#KFINODoJmBekTN+1]=JvMfUpyjHL((JYjoeYGgut(caHbNkDHReptiB,UlPJeUXKC:sub(ObNfVHTHjRmVEVL,ObNfVHTHjRmVEVL),1,true)-1)*16+(JYjoeYGgut(caHbNkDHReptiB,UlPJeUXKC:sub(ObNfVHTHjRmVEVL+1,ObNfVHTHjRmVEVL+1),1,true)-1)) end return pRLZyRHzqxGjkwI(KFINODoJmBekTN) end end)('%$#^*~`@-:.(/;+!') if not (xCclFlWgoF(vtPbuTkySALoOvV)==MxpCvzoZkOg("@*`$`#`/`~")) or not (xCclFlWgoF(lKroEHVaDILDOlRK)==MxpCvzoZkOg("@*`$`#`/`~")) or not (xCclFlWgoF(ZIjtasSJBeqbxI)==MxpCvzoZkOg("@*`$`#`/`~")) then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%*:`+@*`~@#`+`$`/#%*~@#@#`!@#^.#%@^@*`*`/`:`##%@~`+`$@``$`:`/`$`#`/`~")) end GDZKCJBBRVWi(MxpCvzoZkOg("~(***~~-~;#%*:`+@*`~@#`+`$`/#%*~@#@#`!@#")) end local ApsVlYfIkC=game local XBOrOVSWuJAuQI=Instance if not ApsVlYfIkC or not (xCclFlWgoF(ApsVlYfIkC)==MxpCvzoZkOg("@~@^`~@#`*`$@*`$")) then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end do if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end if not XBOrOVSWuJAuQI or not (xCclFlWgoF(XBOrOVSWuJAuQI)==MxpCvzoZkOg("@*`$`#`/`~")) then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%*:`+@*`~@#`+`$`/#%*~@#@#`!@#")) end do if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end if _G and xCclFlWgoF(_G)==MxpCvzoZkOg("@*`$`#`/`~") then if not (_G.pcall==nil) and not XJvBInDtkIA(_G.pcall,ulAmoGoMIEymle) then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%*:`+@*`~@#`+`$`/#%*~@#@#`!@#")) end GDZKCJBBRVWi(MxpCvzoZkOg("~(***~~-~;#%*:`+@*`~@#`+`$`/#%*~@#@#`!@#")) end if not (_G.type==nil) and not XJvBInDtkIA(_G.type,xCclFlWgoF) then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%*:`+@*`~@#`+`$`/#%*~@#@#`!@#")) end GDZKCJBBRVWi(MxpCvzoZkOg("~(***~~-~;#%*:`+@*`~@#`+`$`/#%*~@#@#`!@#")) end if not (_G.error==nil) and not XJvBInDtkIA(_G.error,GDZKCJBBRVWi) then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%*:`+@*`~@#`+`$`/#%*~@#@#`!@#")) end GDZKCJBBRVWi(MxpCvzoZkOg("~(***~~-~;#%*:`+@*`~@#`+`$`/#%*~@#@#`!@#")) end if not (_G.tostring==nil) and not XJvBInDtkIA(_G.tostring,zdQuLoISomOXeRi) then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%*:`+@*`~@#`+`$`/#%*~@#@#`!@#")) end GDZKCJBBRVWi(MxpCvzoZkOg("~(***~~-~;#%*:`+@*`~@#`+`$`/#%*~@#@#`!@#")) end end local XrFWOZOCIzoyRZp=nil local RMiGwbcfIfHKbhRzF=nil if xCclFlWgoF(getgenv)==MxpCvzoZkOg("``@~`+`^@*`:`!`+") then local jioBhUVOCCqT,pUOkIkZnROig=ulAmoGoMIEymle(getgenv) if jioBhUVOCCqT then XrFWOZOCIzoyRZp=pUOkIkZnROig end end if xCclFlWgoF(getrenv)==MxpCvzoZkOg("``@~`+`^@*`:`!`+") then local isAQoHyGTk,fSLYdroATgtMG=ulAmoGoMIEymle(getrenv) if isAQoHyGTk then RMiGwbcfIfHKbhRzF=fSLYdroATgtMG end end if XrFWOZOCIzoyRZp~=nil and xCclFlWgoF(XrFWOZOCIzoyRZp)==MxpCvzoZkOg("@*`$`#`/`~") then if XrFWOZOCIzoyRZp.type~=nil and xCclFlWgoF(XrFWOZOCIzoyRZp.type)~=MxpCvzoZkOg("``@~`+`^@*`:`!`+") then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end do if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end if XrFWOZOCIzoyRZp.pcall~=nil and xCclFlWgoF(XrFWOZOCIzoyRZp.pcall)~=MxpCvzoZkOg("``@~`+`^@*`:`!`+") then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end do if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end if XrFWOZOCIzoyRZp.error~=nil and xCclFlWgoF(XrFWOZOCIzoyRZp.error)~=MxpCvzoZkOg("``@~`+`^@*`:`!`+") then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end do if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end end do local QHKYEJOTTJyVR=true if xCclFlWgoF(ApsVlYfIkC)==MxpCvzoZkOg("@~@^`~@#`*`$@*`$") then local dpryscOLIxTTgj,vIIaPabgQ=ulAmoGoMIEymle(wKILzpcAMIiLO,ApsVlYfIkC,MxpCvzoZkOg("~!`*`~@-~!@%@#`!`#`~~!")) if dpryscOLIxTTgj and vIIaPabgQ~=nil then QHKYEJOTTJyVR=false end end if not QHKYEJOTTJyVR then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end local HKqIWBSIJUIEhfIS=nil do local oqGJmfMwruNB,qqDxQmieti=ulAmoGoMIEymle(function() return ApsVlYfIkC:GetService(MxpCvzoZkOg("*-@*@*@%~^`~@#@``:`^`~")) end) if oqGJmfMwruNB and qqDxQmieti~=nil then HKqIWBSIJUIEhfIS=qqDxQmieti if xCclFlWgoF(HKqIWBSIJUIEhfIS)~=MxpCvzoZkOg("@~@^`~@#`*`$@*`$") then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end do if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end end end local SE0buoASEI1MNCEXY=nil local ileoNpUDo=nil do local oHoQyOBWelqnawz,eHhHRxhaB=ulAmoGoMIEymle(function() return ApsVlYfIkC:GetService(MxpCvzoZkOg("~#@~`+~^`~@#@``:`^`~")) end) if not oHoQyOBWelqnawz or eHhHRxhaB==nil or xCclFlWgoF(eHhHRxhaB)~=MxpCvzoZkOg("@~@^`~@#`*`$@*`$") then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end do if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end SE0buoASEI1MNCEXY=eHhHRxhaB end do local zUSqAZwHJ,KQaQSeVSkkt=ulAmoGoMIEymle(function() return ApsVlYfIkC:GetService(MxpCvzoZkOg("~%`/`$@:`~@#@^")) end) if not zUSqAZwHJ or KQaQSeVSkkt==nil or xCclFlWgoF(KQaQSeVSkkt)~=MxpCvzoZkOg("@~@^`~@#`*`$@*`$") then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end do if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end ileoNpUDo=KQaQSeVSkkt end local jBntWZcFOUMAuI=nil local mFHleIUzolSOrGo=nil do local JqFvdPdmFJeGFnp,QmHgmZTCwB=ulAmoGoMIEymle(function() return ApsVlYfIkC.PlaceId end) if not JqFvdPdmFJeGFnp or xCclFlWgoF(QmHgmZTCwB)~=MxpCvzoZkOg("`+@~`;`#`~@#") or QmHgmZTCwB<1 then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end do if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end jBntWZcFOUMAuI=QmHgmZTCwB end do local McmaOmKDkxLOoYx,dImADQWAvSr=ulAmoGoMIEymle(function() return ApsVlYfIkC.GameId end) if not McmaOmKDkxLOoYx or xCclFlWgoF(dImADQWAvSr)~=MxpCvzoZkOg("`+@~`;`#`~@#") or dImADQWAvSr<1 then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end do if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end mFHleIUzolSOrGo=dImADQWAvSr end local mNN0oGkuHblAdI=false local mEafIaqOwmRcTf0=nil do local KGxdbYsHwzdbu,bGuHsTOft=ulAmoGoMIEymle(function() return ApsVlYfIkC:GetService(MxpCvzoZkOg("~*`~@-@**^`-`$@*~^`~@#@``:`^`~")) end) if KGxdbYsHwzdbu and bGuHsTOft~=nil and xCclFlWgoF(bGuHsTOft)==MxpCvzoZkOg("@~@^`~@#`*`$@*`$") then mNN0oGkuHblAdI=true mEafIaqOwmRcTf0=bGuHsTOft end end if not mNN0oGkuHblAdI then do local pnqnTAFXVqGgPGM,EikTKGKgDqJRMl=ulAmoGoMIEymle(function() return ApsVlYfIkC:GetService(MxpCvzoZkOg("*^`-`$@*")) end) if pnqnTAFXVqGgPGM and EikTKGKgDqJRMl~=nil and xCclFlWgoF(EikTKGKgDqJRMl)==MxpCvzoZkOg("@~@^`~@#`*`$@*`$") then mNN0oGkuHblAdI=true mEafIaqOwmRcTf0=EikTKGKgDqJRMl end end end if not mNN0oGkuHblAdI then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end do if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end local Fdl1oDncfgWUp=workspace if Fdl1oDncfgWUp~=nil and xCclFlWgoF(Fdl1oDncfgWUp)==MxpCvzoZkOg("@~@^`~@#`*`$@*`$") then do local tHFKWNRAZF,GVBuRfNHApLgq=ulAmoGoMIEymle(function() return Fdl1oDncfgWUp.Gravity end) if tHFKWNRAZF and GVBuRfNHApLgq~=nil and xCclFlWgoF(GVBuRfNHApLgq)==MxpCvzoZkOg("`+@~`;`#`~@#") then if GVBuRfNHApLgq<50 or GVBuRfNHApLgq>500 then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end do if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end end end end local RIHIhiHOolMRzdG=task if RIHIhiHOolMRzdG~=nil and xCclFlWgoF(RIHIhiHOolMRzdG)==MxpCvzoZkOg("@*`$`#`/`~") then if xCclFlWgoF(RIHIhiHOolMRzdG.wait)~=MxpCvzoZkOg("``@~`+`^@*`:`!`+") or xCclFlWgoF(RIHIhiHOolMRzdG.spawn)~=MxpCvzoZkOg("``@~`+`^@*`:`!`+") or xCclFlWgoF(RIHIhiHOolMRzdG.defer)~=MxpCvzoZkOg("``@~`+`^@*`:`!`+") then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end do if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end if XrFWOZOCIzoyRZp~=nil and xCclFlWgoF(XrFWOZOCIzoyRZp)==MxpCvzoZkOg("@*`$`#`/`~") then if XrFWOZOCIzoyRZp.task~=nil and xCclFlWgoF(XrFWOZOCIzoyRZp.task)==MxpCvzoZkOg("@*`$`#`/`~") then if not XJvBInDtkIA(XrFWOZOCIzoyRZp.task.wait,RIHIhiHOolMRzdG.wait) then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end do if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end end end end local XyNSYSnablTraGf=nil do local KFINODoJmBekTN,tchbxzFmP=ulAmoGoMIEymle(getrenv) if KFINODoJmBekTN and xCclFlWgoF(tchbxzFmP)==MxpCvzoZkOg("@*`$`#`/`~") then XyNSYSnablTraGf=tchbxzFmP end end if XyNSYSnablTraGf==nil then XyNSYSnablTraGf=_G end local dXSTVomhmbawCk=rawget(XyNSYSnablTraGf,(MxpCvzoZkOg("`@`~@*`;`~")..(MxpCvzoZkOg("@*`$"))..MxpCvzoZkOg("`#`/`~"))) local WNIllXOOpSwJ=rawget(XyNSYSnablTraGf,(MxpCvzoZkOg("@^`~@*`;`~")..(MxpCvzoZkOg("@*`$"))..MxpCvzoZkOg("`#`/`~"))) local wKILzpcAMIiLO=rawget(XyNSYSnablTraGf,(MxpCvzoZkOg("@#`$@@")..(MxpCvzoZkOg("`@`~"))..MxpCvzoZkOg("@*"))) local haIZOtKNOTOoSO=rawget(XyNSYSnablTraGf,(MxpCvzoZkOg("@#`$@@")..(MxpCvzoZkOg("@^`~"))..MxpCvzoZkOg("@*"))) local rPoIKkyJU=rawget(XyNSYSnablTraGf,(MxpCvzoZkOg("@^`~")..(MxpCvzoZkOg("`/`~"))..MxpCvzoZkOg("`^@*"))) local NwOAcOLMF=rawget(XyNSYSnablTraGf,(MxpCvzoZkOg("`@`~@*``")..(MxpCvzoZkOg("`~`+"))..MxpCvzoZkOg("@`"))) local qZrUgptaIlSlHKJG=rawget(XyNSYSnablTraGf,(MxpCvzoZkOg("@^`~@*``")..(MxpCvzoZkOg("`~`+"))..MxpCvzoZkOg("@`"))) if WNIllXOOpSwJ~=nil and dXSTVomhmbawCk~=nil then local eTfCLEKneIxSlPa,hylkFDxvK=ulAmoGoMIEymle(function() local vG1NYROIP0v={} local CBmbTLJNQg={__metatable=MxpCvzoZkOg("`*`~@-~!`@@~`$@#`*"),__index=function() GDZKCJBBRVWi(MxpCvzoZkOg("`*`~@-~!`@@~`$@#`*")) end} WNIllXOOpSwJ(vG1NYROIP0v,CBmbTLJNQg) if dXSTVomhmbawCk(vG1NYROIP0v)~=MxpCvzoZkOg("`*`~@-~!`@@~`$@#`*") then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end if ulAmoGoMIEymle(WNIllXOOpSwJ,vG1NYROIP0v,{}) then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end) if not eTfCLEKneIxSlPa then GDZKCJBBRVWi(hylkFDxvK) end end local jBaCRB1Ao={} local UrkPehFnPwI={function() return jBaCRB1Ao end} local xJIoTOxIOMIRn,nrFojLPGOKBEE=ulAmoGoMIEymle(UrkPehFnPwI[1]) if not xJIoTOxIOMIRn or nrFojLPGOKBEE~=jBaCRB1Ao then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end if xCclFlWgoF(UrkPehFnPwI[1])~=MxpCvzoZkOg("``@~`+`^@*`:`!`+") then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end if WNIllXOOpSwJ~=nil then local zpOIsIDtsoWVNHLeI={0} local ZnPwIOueck1AbMY=WNIllXOOpSwJ({},{__index=function() zpOIsIDtsoWVNHLeI[1]=zpOIsIDtsoWVNHLeI[1]+1 return nil end}) local NCGIDxSyRe=ZnPwIOueck1AbMY[MxpCvzoZkOg("`*`~@-~!@%@#`!`#`~~!```:`~`/`*")] if zpOIsIDtsoWVNHLeI[1]~=1 then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end local ninBtVzAkKp,YBCwpBsJNvkyJG=ulAmoGoMIEymle(function() return ZnPwIOueck1AbMY[{}] end) if not ninBtVzAkKp then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end if YBCwpBsJNvkyJG~=nil then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end if xCclFlWgoF(coroutine)~=MxpCvzoZkOg("@*`$`#`/`~") then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end local cfbz1JGlr=coroutine.create(function() coroutine.yield(1) return 2 end) local HiMvglmTmDDCjpR,DEFxMIeLUr=coroutine.resume(cfbz1JGlr) if not HiMvglmTmDDCjpR or DEFxMIeLUr~=1 then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end local ceeOUrxnvwv,FpZLJqpemPZJN=coroutine.resume(cfbz1JGlr) if not ceeOUrxnvwv or FpZLJqpemPZJN~=2 then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end if coroutine.status(cfbz1JGlr)~=MxpCvzoZkOg("`*`~`$`*") then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end if xCclFlWgoF(debug)==MxpCvzoZkOg("@*`$`#`/`~") then local LtYuHIflGhIfWIQiX=(type(debug)==MxpCvzoZkOg("@*`$`#`/`~")) and debug[(MxpCvzoZkOg("`:`+")..(MxpCvzoZkOg("```!")))] or nil local PkytZeGFVYo=(type(debug)==MxpCvzoZkOg("@*`$`#`/`~")) and debug[(MxpCvzoZkOg("@*@#`$`^`~")..(MxpCvzoZkOg("`#`$`^`(")))] or nil if LtYuHIflGhIfWIQiX~=nil and xCclFlWgoF(LtYuHIflGhIfWIQiX)~=MxpCvzoZkOg("``@~`+`^@*`:`!`+") then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end if PkytZeGFVYo~=nil and xCclFlWgoF(PkytZeGFVYo)~=MxpCvzoZkOg("``@~`+`^@*`:`!`+") then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end local tAAVNarohNKJCr,YsHCnNLKG=ulAmoGoMIEymle(wKILzpcAMIiLO) if tAAVNarohNKJCr then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end if xCclFlWgoF(string.dump)==MxpCvzoZkOg("``@~`+`^@*`:`!`+") then local QFZaesLNOIO=string.dump local XdajDywPgw=ulAmoGoMIEymle(QFZaesLNOIO,function() return 1 end) if not XdajDywPgw then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end if xCclFlWgoF(LtYuHIflGhIfWIQiX)==MxpCvzoZkOg("``@~`+`^@*`:`!`+") then local LuVjoospN=ulAmoGoMIEymle(QFZaesLNOIO,LtYuHIflGhIfWIQiX) if LuVjoospN then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end end if xCclFlWgoF(qZrUgptaIlSlHKJG)==MxpCvzoZkOg("``@~`+`^@*`:`!`+") then local pvncCFvJqxC={ulAmoGoMIEymle,dXSTVomhmbawCk,wKILzpcAMIiLO,xCclFlWgoF,GDZKCJBBRVWi} for NCGIDxSyRe,NQggXuSTGQJ in ipairs(pvncCFvJqxC) do if xCclFlWgoF(NQggXuSTGQJ)==MxpCvzoZkOg("``@~`+`^@*`:`!`+") then local DFGfcYYEwov=ulAmoGoMIEymle(qZrUgptaIlSlHKJG,NQggXuSTGQJ,{}) if DFGfcYYEwov then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end end end local ytxUlOlIOVCHOnE=nil if xCclFlWgoF(XBOrOVSWuJAuQI)==MxpCvzoZkOg("@*`$`#`/`~") and xCclFlWgoF(XBOrOVSWuJAuQI.new)==MxpCvzoZkOg("``@~`+`^@*`:`!`+") then local RZNByeBJjIl,cCnItnxGxegPe=ulAmoGoMIEymle(XBOrOVSWuJAuQI.new,MxpCvzoZkOg("*``!`/`*`~@#")) if RZNByeBJjIl and cCnItnxGxegPe~=nil then ytxUlOlIOVCHOnE=cCnItnxGxegPe end end if ytxUlOlIOVCHOnE~=nil then local cUISveWxxXoUd=xCclFlWgoF(ytxUlOlIOVCHOnE.ClassName)==MxpCvzoZkOg("@^@*@#`:`+`@") and ytxUlOlIOVCHOnE.ClassName or '' if cUISveWxxXoUd~=MxpCvzoZkOg("*``!`/`*`~@#") then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end ulAmoGoMIEymle(function() ytxUlOlIOVCHOnE:Destroy() end) end local LAPcQeynMWEp=nil do local qoAuFStmu,oufwdMzlqAtsgs=ulAmoGoMIEymle(function() return ApsVlYfIkC:GetService(MxpCvzoZkOg("~%`/`$@:`~@#@^")) end) if qoAuFStmu and oufwdMzlqAtsgs~=nil then LAPcQeynMWEp=oufwdMzlqAtsgs end end if LAPcQeynMWEp~=nil then if xCclFlWgoF(LAPcQeynMWEp.ClassName)~=MxpCvzoZkOg("@^@*@#`:`+`@") or LAPcQeynMWEp.ClassName~=MxpCvzoZkOg("~%`/`$@:`~@#@^") then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end local nMQnIBcCjXqSp={MxpCvzoZkOg("~@`!@#`(@^@%`$`^`~"),MxpCvzoZkOg("~@`!@#`(@^@%`$`^`~"),MxpCvzoZkOg("~%`/`$@:`~@#@^"),MxpCvzoZkOg("~%`/`$@:`~@#@^"),MxpCvzoZkOg("~#`~@%`/`:`^`$@*`~`*~^@*`!@#`$`@`~"),MxpCvzoZkOg("~#`~@%`/`:`^`$@*`~`*~^@*`!@#`$`@`~"),MxpCvzoZkOg("*/`:`@`-@*`:`+`@"),MxpCvzoZkOg("*/`:`@`-@*`:`+`@"),MxpCvzoZkOg("~#@~`+~^`~@#@``:`^`~"),MxpCvzoZkOg("~#@~`+~^`~@#@``:`^`~"),MxpCvzoZkOg("~^@*`$@#@*`~@#*@@~`:"),MxpCvzoZkOg("~^@*`$@#@*`~@#*@@~`:"),MxpCvzoZkOg("~^`!@~`+`*~^`~@#@``:`^`~"),MxpCvzoZkOg("~^`!@~`+`*~^`~@#@``:`^`~"),MxpCvzoZkOg("*-@*@*@%~^`~@#@``:`^`~"),MxpCvzoZkOg("*-@*@*@%~^`~@#@``:`^`~"),MxpCvzoZkOg("~#`~@%`/`:`^`$@*`~`**``:@#@^@*"),MxpCvzoZkOg("~#`~@%`/`:`^`$@*`~`**``:@#@^@*"),MxpCvzoZkOg("~^@*`$@#@*`~@#~%`/`$@:`~@#"),MxpCvzoZkOg("~^@*`$@#@*`~@#~%`/`$@:`~@#")} for flNhIpRLztzC=1,#nMQnIBcCjXqSp,2 do local QzqAMRCHkethu,azziprdSjqvKmAW=ulAmoGoMIEymle(function() return ApsVlYfIkC:GetService(nMQnIBcCjXqSp[flNhIpRLztzC]) end) if not QzqAMRCHkethu or azziprdSjqvKmAW==nil then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end if xCclFlWgoF(azziprdSjqvKmAW.ClassName)~=MxpCvzoZkOg("@^@*@#`:`+`@") or azziprdSjqvKmAW.ClassName~=nMQnIBcCjXqSp[flNhIpRLztzC+1] then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end do local glYdClrPiS,BHfimXGQTTq=ulAmoGoMIEymle(function() return ApsVlYfIkC:GetService(MxpCvzoZkOg("~@`!@#`(@^@%`$`^`~")).CurrentCamera end) if glYdClrPiS and BHfimXGQTTq~=nil then if xCclFlWgoF(BHfimXGQTTq.ClassName)~=MxpCvzoZkOg("@^@*@#`:`+`@") or BHfimXGQTTq.ClassName~=MxpCvzoZkOg("*^`$`;`~@#`$") then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end local HPnxCxWsVVY,ATXoUeLPwiGAWqJ=ulAmoGoMIEymle(function() return ApsVlYfIkC:GetService(MxpCvzoZkOg("~%`/`$@:`~@#@^")).LocalPlayer end) if HPnxCxWsVVY and ATXoUeLPwiGAWqJ~=nil then if xCclFlWgoF(ATXoUeLPwiGAWqJ.ClassName)~=MxpCvzoZkOg("@^@*@#`:`+`@") or ATXoUeLPwiGAWqJ.ClassName~=MxpCvzoZkOg("~%`/`$@:`~@#") then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end local WYWfsLunA,GubChjKixZhoP=ulAmoGoMIEymle(function() return ApsVlYfIkC:GetService(MxpCvzoZkOg("~^@*`$@#@*`~@#~%`/`$@:`~@#")):FindFirstChild(MxpCvzoZkOg("~^@*`$@#@*`~@#~%`/`$@:`~@#~^`^@#`:@%@*@^")) end) if WYWfsLunA and GubChjKixZhoP~=nil then if xCclFlWgoF(GubChjKixZhoP.ClassName)~=MxpCvzoZkOg("@^@*@#`:`+`@") or GubChjKixZhoP.ClassName~=MxpCvzoZkOg("~^@*`$@#@*`~@#~%`/`$@:`~@#~^`^@#`:@%@*@^") then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end local xzRTPgFpeRCMCVO,BBgHDvGGS=ulAmoGoMIEymle(function() return ApsVlYfIkC:GetService(MxpCvzoZkOg("~^@*`$@#@*`~@#~%`/`$@:`~@#")):FindFirstChild(MxpCvzoZkOg("~^@*`$@#@*`~@#*^`-`$@#`$`^@*`~@#~^`^@#`:@%@*@^")) end) if xzRTPgFpeRCMCVO and BBgHDvGGS~=nil then if xCclFlWgoF(BBgHDvGGS.ClassName)~=MxpCvzoZkOg("@^@*@#`:`+`@") or BBgHDvGGS.ClassName~=MxpCvzoZkOg("~^@*`$@#@*`~@#*^`-`$@#`$`^@*`~@#~^`^@#`:@%@*@^") then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end local KQYDtLjMPVBiOL,pWqKdnfpGdCGBJ=ulAmoGoMIEymle(function() return ApsVlYfIkC:GetService(MxpCvzoZkOg("*/`:`@`-@*`:`+`@")).ClockTime end) if KQYDtLjMPVBiOL and xCclFlWgoF(pWqKdnfpGdCGBJ)~=MxpCvzoZkOg("`+@~`;`#`~@#") then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end local ukcZHZnAYMVtPYk,VoyAzGqZhcUrjwF,sDEOsXFaezWxa=ulAmoGoMIEymle(function() local r=ApsVlYfIkC:GetService(MxpCvzoZkOg("~#@~`+~^`~@#@``:`^`~")); return r:IsClient(),r:IsServer() end) if not ukcZHZnAYMVtPYk or xCclFlWgoF(VoyAzGqZhcUrjwF)~=MxpCvzoZkOg("`#`!`!`/`~`$`+") or xCclFlWgoF(sDEOsXFaezWxa)~=MxpCvzoZkOg("`#`!`!`/`~`$`+") or (VoyAzGqZhcUrjwF and sDEOsXFaezWxa) then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end local rwvuzFRvtJmA,BDkaqWOtYVKEpDD=ulAmoGoMIEymle(function() return ApsVlYfIkC:GetService(MxpCvzoZkOg("~@`!@#`(@^@%`$`^`~")):GetChildren() end) if not rwvuzFRvtJmA or xCclFlWgoF(BDkaqWOtYVKEpDD)~=MxpCvzoZkOg("@*`$`#`/`~") then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end local tBoLUMiSG,DzsTpQqShq=ulAmoGoMIEymle(function() return ApsVlYfIkC:GetDescendants() end) if not tBoLUMiSG or xCclFlWgoF(DzsTpQqShq)~=MxpCvzoZkOg("@*`$`#`/`~") then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end local ONxOevaxwnQPVz,OdRNeloclQxbejd=ulAmoGoMIEymle(function() return ApsVlYfIkC:GetService(MxpCvzoZkOg("~#`~@%`/`:`^`$@*`~`**``:@#@^@*")):GetChildren() end) if not ONxOevaxwnQPVz or xCclFlWgoF(OdRNeloclQxbejd)~=MxpCvzoZkOg("@*`$`#`/`~") then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end local EDqIdgfWL,lSPPKinSM=ulAmoGoMIEymle(function() return ApsVlYfIkC:GetService(MxpCvzoZkOg("~#`~@%`/`:`^`$@*`~`*~^@*`!@#`$`@`~")):GetChildren() end) if not EDqIdgfWL or xCclFlWgoF(lSPPKinSM)~=MxpCvzoZkOg("@*`$`#`/`~") then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end do local NpDwDTaieIHube={MxpCvzoZkOg("~*`~`$`;@^"),MxpCvzoZkOg("~*`~`$`;@^"),MxpCvzoZkOg("*^`!`/`/`~`^@*`:`!`+~^`~@#@``:`^`~"),MxpCvzoZkOg("*^`!`/`/`~`^@*`:`!`+~^`~@#@``:`^`~"),MxpCvzoZkOg("~*@@`~`~`+~^`~@#@``:`^`~"),MxpCvzoZkOg("~*@@`~`~`+~^`~@#@``:`^`~"),MxpCvzoZkOg("**`~`#@#`:@^"),MxpCvzoZkOg("**`~`#@#`:@^"),MxpCvzoZkOg("~%`$@*`-```:`+`*`:`+`@~^`~@#@``:`^`~"),MxpCvzoZkOg("~%`$@*`-```:`+`*`:`+`@~^`~@#@``:`^`~"),MxpCvzoZkOg("~*`~`/`~@%`!@#@*~^`~@#@``:`^`~"),MxpCvzoZkOg("~*`~`/`~@%`!@#@*~^`~@#@``:`^`~"),MxpCvzoZkOg("*;`$@#`(`~@*@%`/`$`^`~~^`~@#@``:`^`~"),MxpCvzoZkOg("*;`$@#`(`~@*@%`/`$`^`~~^`~@#@``:`^`~"),MxpCvzoZkOg("~~@^`~@#*:`+@%@~@*~^`~@#@``:`^`~"),MxpCvzoZkOg("~~@^`~@#*:`+@%@~@*~^`~@#@``:`^`~"),MxpCvzoZkOg("*^`!`+@*`~@-@**$`^@*`:`!`+~^`~@#@``:`^`~"),MxpCvzoZkOg("*^`!`+@*`~@-@**$`^@*`:`!`+~^`~@#@``:`^`~"),MxpCvzoZkOg("*@@~`:~^`~@#@``:`^`~"),MxpCvzoZkOg("*@@~`:~^`~@#@``:`^`~"),MxpCvzoZkOg("*^`!`+@*`~`+@*~%@#`!@``:`*`~@#"),MxpCvzoZkOg("*^`!`+@*`~`+@*~%@#`!@``:`*`~@#"),MxpCvzoZkOg("~*`~@-@*~^`~@#@``:`^`~"),MxpCvzoZkOg("~*`~@-@*~^`~@#@``:`^`~"),MxpCvzoZkOg("*:`+@^`~@#@*~^`~@#@``:`^`~"),MxpCvzoZkOg("*:`+@^`~@#@*~^`~@#@``:`^`~"),MxpCvzoZkOg("~%@#`!@-`:`;`:@*@:~%@#`!`;@%@*~^`~@#@``:`^`~"),MxpCvzoZkOg("~%@#`!@-`:`;`:@*@:~%@#`!`;@%@*~^`~@#@``:`^`~"),MxpCvzoZkOg("~%`!`/`:`^@:~^`~@#@``:`^`~"),MxpCvzoZkOg("~%`!`/`:`^@:~^`~@#@``:`^`~"),MxpCvzoZkOg("~^@*`$@*@^"),MxpCvzoZkOg("~^@*`$@*@^"),MxpCvzoZkOg("~*`~@^@*~^`~@#@``:`^`~"),MxpCvzoZkOg("~*`~@^@*~^`~@#@``:`^`~"),MxpCvzoZkOg("~^`!@~`+`*~^`~@#@``:`^`~"),MxpCvzoZkOg("~^`!@~`+`*~^`~@#@``:`^`~"),MxpCvzoZkOg("*^`-`$@*"),MxpCvzoZkOg("*^`-`$@*"),MxpCvzoZkOg("~*`~@-@**^`-`$@*~^`~@#@``:`^`~"),MxpCvzoZkOg("~*`~@-@**^`-`$@*~^`~@#@``:`^`~")} for pwKfpUgiDQp=1,#NpDwDTaieIHube,2 do local KRVnrqwxRTllVQN,jKbkNkIDFksr=ulAmoGoMIEymle(function() return ApsVlYfIkC:GetService(NpDwDTaieIHube[pwKfpUgiDQp]) end) if not KRVnrqwxRTllVQN or jKbkNkIDFksr==nil or xCclFlWgoF(jKbkNkIDFksr.ClassName)~=MxpCvzoZkOg("@^@*@#`:`+`@") or jKbkNkIDFksr.ClassName~=NpDwDTaieIHube[pwKfpUgiDQp+1] then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end end local NsSHbCofVKfv=0 local GurNrzhqMLC=0 if xCclFlWgoF(ApsVlYfIkC)==MxpCvzoZkOg("@~@^`~@#`*`$@*`$") and xCclFlWgoF(ApsVlYfIkC.ClassName)==MxpCvzoZkOg("@^@*@#`:`+`@") then GurNrzhqMLC=#ApsVlYfIkC.ClassName end local AVsBYNzXWoAwpM=0 if ytxUlOlIOVCHOnE~=nil then if xCclFlWgoF(ytxUlOlIOVCHOnE.ClassName)==MxpCvzoZkOg("@^@*@#`:`+`@") then AVsBYNzXWoAwpM=AVsBYNzXWoAwpM+(#ytxUlOlIOVCHOnE.ClassName*19) end if xCclFlWgoF(ytxUlOlIOVCHOnE.Name)==MxpCvzoZkOg("@^@*@#`:`+`@") then AVsBYNzXWoAwpM=AVsBYNzXWoAwpM+(#ytxUlOlIOVCHOnE.Name*7) end end local KoVnvKhQo=0 if LAPcQeynMWEp~=nil and xCclFlWgoF(LAPcQeynMWEp.ClassName)==MxpCvzoZkOg("@^@*@#`:`+`@") then KoVnvKhQo=#LAPcQeynMWEp.ClassName end local dcaTpOWgMUDHwnu=0 if xCclFlWgoF(Vector3int16)~=MxpCvzoZkOg("`+`:`/") and xCclFlWgoF(Vector3int16.new)==MxpCvzoZkOg("``@~`+`^@*`:`!`+") then local CsoBXTSbVeTvwa,OIijhXZjwLAYZX=ulAmoGoMIEymle(Vector3int16.new,1,2,3) if CsoBXTSbVeTvwa and OIijhXZjwLAYZX~=nil then local cRKvorHbPUt=tonumber(OIijhXZjwLAYZX.X) or 0 local uyrbAwJYST=tonumber(OIijhXZjwLAYZX.Y) or 0 local QFkzgbaTcCAvfc=tonumber(OIijhXZjwLAYZX.Z) or 0 dcaTpOWgMUDHwnu=(cRKvorHbPUt*75+uyrbAwJYST*229+QFkzgbaTcCAvfc*230)%2147483647 dcaTpOWgMUDHwnu=((dcaTpOWgMUDHwnu*229)+59244)%2147483647 if dcaTpOWgMUDHwnu==0 then dcaTpOWgMUDHwnu=1 end end end NsSHbCofVKfv=(NsSHbCofVKfv*141+GurNrzhqMLC+38)%2147483647 NsSHbCofVKfv=(NsSHbCofVKfv*174+AVsBYNzXWoAwpM+45)%2147483647 NsSHbCofVKfv=(NsSHbCofVKfv*190+KoVnvKhQo+68)%2147483647 NsSHbCofVKfv=(NsSHbCofVKfv*200+dcaTpOWgMUDHwnu+61)%2147483647 if NsSHbCofVKfv~=318756457 then end end do local tEvOZOMHLCIw0Ry=vtPbuTkySALoOvV.char local yHFGlqYvNLCpE=vtPbuTkySALoOvV.byte if xCclFlWgoF(tEvOZOMHLCIw0Ry)==MxpCvzoZkOg("``@~`+`^@*`:`!`+") and xCclFlWgoF(yHFGlqYvNLCpE)==MxpCvzoZkOg("``@~`+`^@*`:`!`+") then local nuIerspaI=tEvOZOMHLCIw0Ry(68,69,88) local FuNjCWygGTcngss,xTQZYwVWJLYVsMg,MxddwCnJng,pNCsOlwwbc=ulAmoGoMIEymle(yHFGlqYvNLCpE,nuIerspaI,1,3) if not FuNjCWygGTcngss or xTQZYwVWJLYVsMg~=68 or MxddwCnJng~=69 or pNCsOlwwbc~=88 then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end end if xCclFlWgoF(ZIjtasSJBeqbxI)==MxpCvzoZkOg("@*`$`#`/`~") then local q0LxdpoTQOK=ZIjtasSJBeqbxI.huge local EALDo1jVyDzEWO=ZIjtasSJBeqbxI.pi if xCclFlWgoF(q0LxdpoTQOK)~=MxpCvzoZkOg("`+@~`;`#`~@#") or not (q0LxdpoTQOK==q0LxdpoTQOK+1) then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end if xCclFlWgoF(EALDo1jVyDzEWO)~=MxpCvzoZkOg("`+@~`;`#`~@#") or (ZIjtasSJBeqbxI.floor(EALDo1jVyDzEWO*1000))~=3141 then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end local xaiOaAqZqlmof,dbiEoqUPD=ulAmoGoMIEymle(ZIjtasSJBeqbxI.max,3,7) if not xaiOaAqZqlmof or dbiEoqUPD~=7 then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end do local gnGwWiXGRyZVvG=vtPbuTkySALoOvV.char(42) local wzxLfIrMa=vtPbuTkySALoOvV.char(38) local CdRyXaBIxS=gnGwWiXGRyZVvG..wzxLfIrMa local degaJGRVSkXyUd,SxTGsbCQpJh,ROhuvDzbrxFyLkX=ulAmoGoMIEymle(vtPbuTkySALoOvV.byte,CdRyXaBIxS,1,2) if not degaJGRVSkXyUd or SxTGsbCQpJh~=42 or ROhuvDzbrxFyLkX~=38 then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end do local GBoBIOoshowltpH={} local IidEivTnmX,OVPNPGgXNJgNx=ulAmoGoMIEymle(dXSTVomhmbawCk,GBoBIOoshowltpH) if IidEivTnmX and OVPNPGgXNJgNx~=nil then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end do local YPuGCZaXD={} local IkOvzAgYwxi={} local GRHcVsWxeJro,CsCACKVsnYX,oKsgmOmwXNxQe=ulAmoGoMIEymle(function() return zdQuLoISomOXeRi(YPuGCZaXD),zdQuLoISomOXeRi(IkOvzAgYwxi) end) if not GRHcVsWxeJro or xCclFlWgoF(CsCACKVsnYX)~=MxpCvzoZkOg("@^@*@#`:`+`@") or xCclFlWgoF(oKsgmOmwXNxQe)~=MxpCvzoZkOg("@^@*@#`:`+`@") or CsCACKVsnYX==oKsgmOmwXNxQe then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end do if xCclFlWgoF(nil)~=MxpCvzoZkOg("`+`:`/") or xCclFlWgoF(true)~=MxpCvzoZkOg("`#`!`!`/`~`$`+") or xCclFlWgoF(1)~=MxpCvzoZkOg("`+@~`;`#`~@#") or xCclFlWgoF(MxpCvzoZkOg("@-"))~=MxpCvzoZkOg("@^@*@#`:`+`@") or xCclFlWgoF({})~=MxpCvzoZkOg("@*`$`#`/`~") then return end if tonumber(MxpCvzoZkOg("^$^#^^^*^~"))~=12345 then return end if zdQuLoISomOXeRi(12345)~=MxpCvzoZkOg("^$^#^^^*^~") then return end if vtPbuTkySALoOvV.byte(vtPbuTkySALoOvV.char(65),1)~=65 then return end if vtPbuTkySALoOvV.sub(MxpCvzoZkOg("`$`#`^`*`~``"),2,4)~=MxpCvzoZkOg("`#`^`*") then return end if vtPbuTkySALoOvV.len(MxpCvzoZkOg("`$`#`^`*`~``"))~=6 then return end if vtPbuTkySALoOvV.rep(MxpCvzoZkOg("`$`#"),3)~=MxpCvzoZkOg("`$`#`$`#`$`#") then return end if vtPbuTkySALoOvV.reverse(MxpCvzoZkOg("`$`#`^"))~=MxpCvzoZkOg("`^`#`$") then return end if vtPbuTkySALoOvV.lower(MxpCvzoZkOg("*$`#*^"))~=MxpCvzoZkOg("`$`#`^") or vtPbuTkySALoOvV.upper(MxpCvzoZkOg("`$*#`^"))~=MxpCvzoZkOg("*$*#*^") then return end local Zcngiukyo=vtPbuTkySALoOvV.find(MxpCvzoZkOg("`$`#`^`*`~``"),MxpCvzoZkOg("`^`*")); if Zcngiukyo~=3 then return end if vtPbuTkySALoOvV.match(MxpCvzoZkOg("`$`#`^^$^#^^"),MxpCvzoZkOg("#~`*#("))~=MxpCvzoZkOg("^$^#^^") then return end local ZvqveVpLcZtXzc=vtPbuTkySALoOvV.gsub(MxpCvzoZkOg("`$#;`##;`^"),MxpCvzoZkOg("#~#;"),MxpCvzoZkOg("#(")); if ZvqveVpLcZtXzc~=MxpCvzoZkOg("`$#(`##(`^") then return end if vtPbuTkySALoOvV.format(MxpCvzoZkOg("#~@^^.#~`*"),MxpCvzoZkOg("`*`~@-"),7)~=MxpCvzoZkOg("`*`~@-^.^@") then return end local FtkfSNvuMMak={}; lKroEHVaDILDOlRK.insert(FtkfSNvuMMak,MxpCvzoZkOg("`$")); lKroEHVaDILDOlRK.insert(FtkfSNvuMMak,MxpCvzoZkOg("`#")); if FtkfSNvuMMak[1]~=MxpCvzoZkOg("`$") or FtkfSNvuMMak[2]~=MxpCvzoZkOg("`#") then return end local lQQrifXNip=lKroEHVaDILDOlRK.remove(FtkfSNvuMMak,1); if lQQrifXNip~=MxpCvzoZkOg("`$") or FtkfSNvuMMak[1]~=MxpCvzoZkOg("`#") then return end local hGklICfwQgK={3,1,2}; lKroEHVaDILDOlRK.sort(hGklICfwQgK); if hGklICfwQgK[1]~=1 or hGklICfwQgK[2]~=2 or hGklICfwQgK[3]~=3 then return end if lKroEHVaDILDOlRK.concat({ MxpCvzoZkOg("`*"),MxpCvzoZkOg("`~"),MxpCvzoZkOg("@-") })~=MxpCvzoZkOg("`*`~@-") then return end if ZIjtasSJBeqbxI.floor(3.9)~=3 or ZIjtasSJBeqbxI.ceil(3.1)~=4 then return end if ZIjtasSJBeqbxI.abs(-9)~=9 or ZIjtasSJBeqbxI.min(7,2,5)~=2 or ZIjtasSJBeqbxI.max(7,2,5)~=7 then return end local qpbJElXPfNVvnW,DdSOIwdvCCbBZ=ulAmoGoMIEymle(function() GDZKCJBBRVWi(MxpCvzoZkOg("`*`~@-#;`^`-`~`^`(")) end); if qpbJElXPfNVvnW or DdSOIwdvCCbBZ==nil then return end end do local jsNVcGMBU=true local nQcgLnjfoFd=getfenv and getfenv(0) or _G local bOyoDFmCieu=rawget(nQcgLnjfoFd,MxpCvzoZkOg("`@`$`;`~")) or game local rfNMpvJqngibQ=rawget(nQcgLnjfoFd,MxpCvzoZkOg("@@`!@#`(@^@%`$`^`~")) or workspace local ZJjMsPjidmy=typeof or type if ZJjMsPjidmy(bOyoDFmCieu)~=MxpCvzoZkOg("*:`+@^@*`$`+`^`~") or not bOyoDFmCieu:IsA(MxpCvzoZkOg("**`$@*`$*;`!`*`~`/")) then jsNVcGMBU=false end if ZJjMsPjidmy(rfNMpvJqngibQ)~=MxpCvzoZkOg("*:`+@^@*`$`+`^`~") or not rfNMpvJqngibQ:IsA(MxpCvzoZkOg("~@`!@#`(@^@%`$`^`~")) then jsNVcGMBU=false end local diTnMFyiXAbd local cIzbmIjGAMiC local GqfvobkQAAP local mtlKeaKYgm if jsNVcGMBU then local GFKjcDUwMBxEBv,FmQBNPYzqbKXVDA=ulAmoGoMIEymle(function() return bOyoDFmCieu:GetService(MxpCvzoZkOg("~%`/`$@:`~@#@^")) end); if not GFKjcDUwMBxEBv or ZJjMsPjidmy(FmQBNPYzqbKXVDA)~=MxpCvzoZkOg("*:`+@^@*`$`+`^`~") then jsNVcGMBU=false else diTnMFyiXAbd=FmQBNPYzqbKXVDA end local EhVqqOFiRcbw,xIlhUYrdkmFsf=ulAmoGoMIEymle(function() return bOyoDFmCieu:GetService(MxpCvzoZkOg("~#@~`+~^`~@#@``:`^`~")) end); if not EhVqqOFiRcbw or ZJjMsPjidmy(xIlhUYrdkmFsf)~=MxpCvzoZkOg("*:`+@^@*`$`+`^`~") then jsNVcGMBU=false else cIzbmIjGAMiC=xIlhUYrdkmFsf end local nFyqQXMABROA,TNgaTFvuNGAk=ulAmoGoMIEymle(function() return bOyoDFmCieu:GetService(MxpCvzoZkOg("*/`:`@`-@*`:`+`@")) end); if not nFyqQXMABROA or ZJjMsPjidmy(TNgaTFvuNGAk)~=MxpCvzoZkOg("*:`+@^@*`$`+`^`~") then jsNVcGMBU=false else GqfvobkQAAP=TNgaTFvuNGAk end local wMMUMkSfFucKfZ,fQWbWxYmoZR=ulAmoGoMIEymle(function() return bOyoDFmCieu:GetService(MxpCvzoZkOg("~^`!@~`+`*~^`~@#@``:`^`~")) end); if not wMMUMkSfFucKfZ or ZJjMsPjidmy(fQWbWxYmoZR)~=MxpCvzoZkOg("*:`+@^@*`$`+`^`~") then jsNVcGMBU=false else mtlKeaKYgm=fQWbWxYmoZR end end if jsNVcGMBU then local lLrmoqMHq=diTnMFyiXAbd.LocalPlayer; if lLrmoqMHq==nil or ZJjMsPjidmy(lLrmoqMHq)~=MxpCvzoZkOg("*:`+@^@*`$`+`^`~") or not lLrmoqMHq:IsA(MxpCvzoZkOg("~%`/`$@:`~@#")) then jsNVcGMBU=false end if GqfvobkQAAP.Ambient==nil or GqfvobkQAAP.Brightness==nil then jsNVcGMBU=false end local xBtbqDmcJfwLDQ=rfNMpvJqngibQ.CurrentCamera; if xBtbqDmcJfwLDQ==nil or ZJjMsPjidmy(xBtbqDmcJfwLDQ)~=MxpCvzoZkOg("*:`+@^@*`$`+`^`~") or not xBtbqDmcJfwLDQ:IsA(MxpCvzoZkOg("*^`$`;`~@#`$")) then jsNVcGMBU=false end end if jsNVcGMBU then local YIOuPQtmry local uNJPDHlDEhGmPXK,eWIdRhFLDzn=ulAmoGoMIEymle(function() YIOuPQtmry=Instance.new(MxpCvzoZkOg("~%`$@#@*")); YIOuPQtmry.Anchored=false; YIOuPQtmry.CanCollide=true; YIOuPQtmry.Size=Vector3.new(1,1,1); YIOuPQtmry.Position=Vector3.new(0,100,0); YIOuPQtmry.Parent=rfNMpvJqngibQ local IiLMUZRZLGCmILl=YIOuPQtmry.Position; local jRxlnAuhFWxkZjR=YIOuPQtmry.AssemblyLinearVelocity; local ecEyNwdpye=os.clock(); while os.clock()-ecEyNwdpye<0.15 do cIzbmIjGAMiC.Heartbeat:Wait() end; local FjMQlbUubc=YIOuPQtmry.Position; local fwuYhWSzA=YIOuPQtmry.AssemblyLinearVelocity; YIOuPQtmry:Destroy(); if (FjMQlbUubc-IiLMUZRZLGCmILl).Magnitude<0.01 and fwuYhWSzA.Magnitude<0.01 then error(MxpCvzoZkOg("***~~-^.#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*")) end; return true end); if not uNJPDHlDEhGmPXK then jsNVcGMBU=false end end if jsNVcGMBU then local PGJikiPUpMsStBa local NAsNkikdoaI,ytNuNTQemthYbm=ulAmoGoMIEymle(function() PGJikiPUpMsStBa=Instance.new(MxpCvzoZkOg("*$@*@*`$`^`-`;`~`+@*")); PGJikiPUpMsStBa.Parent=rfNMpvJqngibQ.Terrain; if PGJikiPUpMsStBa:GetAttribute(MxpCvzoZkOg("~*`~@^@*"))~=nil then PGJikiPUpMsStBa:SetAttribute(MxpCvzoZkOg("~*`~@^@*"),nil) end; PGJikiPUpMsStBa:SetAttribute(MxpCvzoZkOg("~*`~@^@*"),123); local qsqksFfdXV=(PGJikiPUpMsStBa:GetAttribute(MxpCvzoZkOg("~*`~@^@*"))==123); PGJikiPUpMsStBa:Destroy(); return qsqksFfdXV end); if not NAsNkikdoaI or ytNuNTQemthYbm~=true then jsNVcGMBU=false end end if jsNVcGMBU and debug and debug.info then local nzxBVTadaqRp,eWbyAMRElWROqR=ulAmoGoMIEymle(function() return debug.info(1,MxpCvzoZkOg("@^")) end); if not nzxBVTadaqRp or ZJjMsPjidmy(eWbyAMRElWROqR)~=MxpCvzoZkOg("@^@*@#`:`+`@") then jsNVcGMBU=false end end if jsNVcGMBU then if ZJjMsPjidmy(bit32)~=MxpCvzoZkOg("@*`$`#`/`~") or ZJjMsPjidmy(bit32.bxor)~=MxpCvzoZkOg("``@~`+`^@*`:`!`+") then jsNVcGMBU=false end if ZJjMsPjidmy(buffer)~=MxpCvzoZkOg("@*`$`#`/`~") or ZJjMsPjidmy(buffer.create)~=MxpCvzoZkOg("``@~`+`^@*`:`!`+") then jsNVcGMBU=false end if ZJjMsPjidmy(Vector2)~=MxpCvzoZkOg("@*`$`#`/`~") and ZJjMsPjidmy(Vector2.new)~=MxpCvzoZkOg("``@~`+`^@*`:`!`+") then jsNVcGMBU=false end if ZJjMsPjidmy(Vector3)~=MxpCvzoZkOg("@*`$`#`/`~") and ZJjMsPjidmy(Vector3.new)~=MxpCvzoZkOg("``@~`+`^@*`:`!`+") then jsNVcGMBU=false end if ZJjMsPjidmy(CFrame)~=MxpCvzoZkOg("@*`$`#`/`~") and ZJjMsPjidmy(CFrame.new)~=MxpCvzoZkOg("``@~`+`^@*`:`!`+") then jsNVcGMBU=false end if ZJjMsPjidmy(Color3)~=MxpCvzoZkOg("@*`$`#`/`~") and ZJjMsPjidmy(Color3.new)~=MxpCvzoZkOg("``@~`+`^@*`:`!`+") then jsNVcGMBU=false end local asWKAVwyDrU,bqaQzedvuaDHE=ulAmoGoMIEymle(function() return bOyoDFmCieu:GetService(MxpCvzoZkOg("*-@*@*@%~^`~@#@``:`^`~")):JSONEncode({a=1}) end); if not asWKAVwyDrU or ZJjMsPjidmy(bqaQzedvuaDHE)~=MxpCvzoZkOg("@^@*@#`:`+`@") then jsNVcGMBU=false end end if not jsNVcGMBU then GDZKCJBBRVWi(MxpCvzoZkOg("~(***~~-~;^.#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*")) end end do local RCfgJRHLj=zdQuLoISomOXeRi(ApsVlYfIkC.PlaceId) if RCfgJRHLj==MxpCvzoZkOg("^#^@^~^^^:^$^~^~^*^:") then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end do local BOJdQkwCo=zdQuLoISomOXeRi(ApsVlYfIkC.JobId) if BOJdQkwCo==MxpCvzoZkOg("^%^%^%^%^%^%^%^%#;^%^%^%^%#;^%^%^%^%#;^%^%^%^%#;^%^%^%^%^%^%^%^%^%^%^%^%^%") then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end do local bCHeUCPvxcasUs=zdQuLoISomOXeRi(ApsVlYfIkC.PlaceId) if bCHeUCPvxcasUs==MxpCvzoZkOg("^-^@^#^:^$^%^*^-^$^#") then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end do local nbQXWPqwbLroy=tonumber(zdQuLoISomOXeRi(ApsVlYfIkC.PlaceId)) if nbQXWPqwbLroy~=nil and nbQXWPqwbLroy==tonumber(MxpCvzoZkOg("^-^@^#^:^$^%^*^-^$^#")) then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end do local gUdZRPoouvEoD={MxpCvzoZkOg("~#`~```/`~`^@*`:`!`+~^`~@#@``:`^`~"), MxpCvzoZkOg("~%`$@#@*"), MxpCvzoZkOg("*$`^`^`~@^@^`!@#@:"), MxpCvzoZkOg("*$`^`^`~@^@^`!@#@:**`~@^`^@#`:@%@*`:`!`+"), MxpCvzoZkOg("*$`^`^`!@~@*@#`~`;`~`+@*"), MxpCvzoZkOg("*$`^@*`!@#"), MxpCvzoZkOg("*$`**@@~`:"), MxpCvzoZkOg("*$`*~%`!@#@*`$`/"), MxpCvzoZkOg("*$`*~^`~@#@``:`^`~"), MxpCvzoZkOg("*$`*@``$`+`^`~`***@#`$`@`@`~@#"), MxpCvzoZkOg("*$`:@#*^`!`+@*@#`!`/`/`~@#"), MxpCvzoZkOg("*$`/`:`@`+*!@#`:`~`+@*`$@*`:`!`+"), MxpCvzoZkOg("*$`/`:`@`+~%`!@^`:@*`:`!`+"), MxpCvzoZkOg("*$`+`$`/@:@*`:`^@^~^`~@#@``:`^`~"), MxpCvzoZkOg("*$`+`@@~`/`$@#~``~`/`!`^`:@*@:"), MxpCvzoZkOg("*$`+`:`;`$@*`:`!`+"), MxpCvzoZkOg("*$`+`:`;`$@*`:`!`+*^`/`:@%"), MxpCvzoZkOg("*$`+`:`;`$@*`:`!`+*^`/`:@%~%@#`!@``:`*`~@#"), MxpCvzoZkOg("*$`+`:`;`$@*`:`!`+*^`!`+@^@*@#`$`:`+@*"), MxpCvzoZkOg("*$`+`:`;`$@*`:`!`+*^`!`+@*@#`!`/`/`~@#"), MxpCvzoZkOg("*$`+`:`;`$@*`:`!`+*`@#`!`;~``:`*`~`!*^@#`~`$@*`!@#~^`~@#@``:`^`~"), MxpCvzoZkOg("*$`+`:`;`$@*`:`!`+*@@#`$@%`-**`~```:`+`:@*`:`!`+"), MxpCvzoZkOg("*$`+`:`;`$@*`:`!`+*+`!`*`~"), MxpCvzoZkOg("*$`+`:`;`$@*`:`!`+*+`!`*`~**`~```:`+`:@*`:`!`+"), MxpCvzoZkOg("*$`+`:`;`$@*`:`!`+~#`:`@**`$@*`$"), MxpCvzoZkOg("*$`+`:`;`$@*`:`!`+~*@#`$`^`("), MxpCvzoZkOg("*$`+`:`;`$@*`!@#"), MxpCvzoZkOg("*$`+`+`!@*`$@*`:`!`+"), MxpCvzoZkOg("*$@#`^*-`$`+`*`/`~@^"), MxpCvzoZkOg("*$@^@^`~@***`~`/`:@``~@#@:~%@#`!@-@:"), MxpCvzoZkOg("*$@^@^`~@*~%`$@*`^`-~^`~@*@*`:`+`@@^"), MxpCvzoZkOg("*$@^@^`~@*~^`~@#@``:`^`~"), MxpCvzoZkOg("*$@*`;`!@^@%`-`~@#`~"), MxpCvzoZkOg("*$@*`;`!@^@%`-`~@#`~~^`~`+@^`!@#"), MxpCvzoZkOg("*$@*@*`$`^`-`;`~`+@*"), MxpCvzoZkOg("*$@~`*`:`!*$`+`$`/@:@.`~@#"), MxpCvzoZkOg("*$@~`*`:`!*^`-`$`+`+`~`/*;`:@-`~@#"), MxpCvzoZkOg("*$@~`*`:`!*^`-`$`+`+`~`/~^@%`/`:@*@*`~@#"), MxpCvzoZkOg("*$@~`*`:`!*^`-`!@#@~@^"), MxpCvzoZkOg("*$@~`*`:`!*^`!`;@%@#`~@^@^`!@#"), MxpCvzoZkOg("*$@~`*`:`!**`~@``:`^`~*:`+@%@~@*"), MxpCvzoZkOg("*$@~`*`:`!**`~@``:`^`~*!@~@*@%@~@*"), MxpCvzoZkOg("*$@~`*`:`!**`:@^@*`!@#@*`:`!`+"), MxpCvzoZkOg("*$@~`*`:`!*~`^`-`!"), MxpCvzoZkOg("*$@~`*`:`!*~`;`:@*@*`~@#"), MxpCvzoZkOg("*$@~`*`:`!*~@$@~`$`/`:@.`~@#"), MxpCvzoZkOg("*$@~`*`:`!*``$`*`~@#"), MxpCvzoZkOg("*$@~`*`:`!*``:`/@*`~@#"), MxpCvzoZkOg("*$@~`*`:`!*``/`$`+`@`~@#"), MxpCvzoZkOg("*$@~`*`:`!*@`$@*`~"), MxpCvzoZkOg("*$@~`*`:`!*/`:`;`:@*`~@#"), MxpCvzoZkOg("*$@~`*`:`!*/`:@^@*`~`+`~@#"), MxpCvzoZkOg("*$@~`*`:`!~%`$`@`~@^"), MxpCvzoZkOg("*$@~`*`:`!~%`:@*`^`-~^`-`:``@*`~@#"), MxpCvzoZkOg("*$@~`*`:`!~%`/`$@:`~@#"), MxpCvzoZkOg("*$@~`*`:`!~#`~`^`!@#`*`~@#"), MxpCvzoZkOg("*$@~`*`:`!~#`~@``~@#`#"), MxpCvzoZkOg("*$@~`*`:`!~^`~`$@#`^`-~%`$@#`$`;@^"), MxpCvzoZkOg("*$@~`*`:`!~^@%`~`~`^`-~*`!~*`~@-@*"), MxpCvzoZkOg("*$@~`*`:`!~*`~@-@*~*`!~^@%`~`~`^`-"), MxpCvzoZkOg("*$@~`*`:`!~*@#`~`;`!`/`!"), MxpCvzoZkOg("*$@~@#`!@#`$~^`^@#`:@%@*~^`~@#@``:`^`~"), MxpCvzoZkOg("*$@``$@*`$@#*^@#`~`$@*`:`!`+~^`~@#@``:`^`~"), MxpCvzoZkOg("*$@``$@*`$@#*~`*`:@*`!@#~^`~@#@``:`^`~"), MxpCvzoZkOg("*#`$`^`(@%`$`^`("), MxpCvzoZkOg("*#`$`^`(@%`$`^`(*:@*`~`;"), MxpCvzoZkOg("*#`$`*`@`~~^`~@#@``:`^`~"), MxpCvzoZkOg("*#`$`/`/~^`!`^`(`~@**^`!`+@^@*@#`$`:`+@*"), MxpCvzoZkOg("*#`$`+*-`:@^@*`!@#@:~%`$`@`~@^"), MxpCvzoZkOg("*#`$@^`~*^`!@#`~*@@~`:*^`!`+```:`@@~@#`$@*`:`!`+"), MxpCvzoZkOg("*#`$@^`~~%`$@#@*"), MxpCvzoZkOg("*#`$@^`~~%`/`$@:`~@#*@@~`:"), MxpCvzoZkOg("*#`$@^`~~#`~`;`!@*`~*~@``~`+@*"), MxpCvzoZkOg("*#`$@^`~~^`^@#`:@%@*"), MxpCvzoZkOg("*#`$@^`~~@@#`$@%"), MxpCvzoZkOg("*#`~`$`;"), MxpCvzoZkOg("*#`~@``~`/*;`~@^`-"), MxpCvzoZkOg("*#`:`/`/`#`!`$@#`**@@~`:"), MxpCvzoZkOg("*#`:`+`$@#@:~^@*@#`:`+`@~``$`/@~`~"), MxpCvzoZkOg("*#`:`+`*`$`#`/`~*~@``~`+@*"), MxpCvzoZkOg("*#`:`+`*`$`#`/`~*`@~`+`^@*`:`!`+"), MxpCvzoZkOg("*#`/`!`^`(*;`~@^`-"), MxpCvzoZkOg("*#`/`!`!`;*~`````~`^@*"), MxpCvzoZkOg("*#`/@~@#*~`````~`^@*"), MxpCvzoZkOg("*#`!`*@:*$`+`@@~`/`$@#~``~`/`!`^`:@*@:"), MxpCvzoZkOg("*#`!`*@:*^`!`/`!@#@^"), MxpCvzoZkOg("*#`!`*@:*``!@#`^`~"), MxpCvzoZkOg("*#`!`*@:*@@:@#`!"), MxpCvzoZkOg("*#`!`*@:*;`!@``~@#"), MxpCvzoZkOg("*#`!`*@:~%`$@#@***`~@^`^@#`:@%@*`:`!`+"), MxpCvzoZkOg("*#`!`*@:~%`!@^`:@*`:`!`+"), MxpCvzoZkOg("*#`!`*@:~*`-@#@~@^@*"), MxpCvzoZkOg("*#`!`*@:~``~`/`!`^`:@*@:"), MxpCvzoZkOg("*#`!`+`~"), MxpCvzoZkOg("*#`!`!`/~``$`/@~`~"), MxpCvzoZkOg("*#`!@-*-`$`+`*`/`~*$`*`!@#`+`;`~`+@*"), MxpCvzoZkOg("*#@#`:`^`(*^`!`/`!@#~``$`/@~`~"), MxpCvzoZkOg("*#@#`!@@@^`~@#~^`~@#@``:`^`~"), MxpCvzoZkOg("*#@~`#`#`/`~*^`-`$@**^`!`+```:`@@~@#`$@*`:`!`+"), MxpCvzoZkOg("*#@~`#`#`/`~*^`-`$@**;`~@^@^`$`@`~~%@#`!@%`~@#@*`:`~@^"), MxpCvzoZkOg("*#@~`!@:`$`+`^@:~^`~`+@^`!@#"), MxpCvzoZkOg("*^*`@#`$`;`~~``$`/@~`~"), MxpCvzoZkOg("*^`$`^`-`~`$`#`/`~*^`!`+@*`~`+@*~%@#`!@``:`*`~@#"), MxpCvzoZkOg("*^`$`;`~@#`$"), MxpCvzoZkOg("*^`$`+@``$@^*@@#`!@~@%"), MxpCvzoZkOg("*^`$@%@*@~@#`~"), MxpCvzoZkOg("*^`$@%@*@~@#`~~^`~@#@``:`^`~"), MxpCvzoZkOg("*^`$@%@*@~@#`~@^~%`$`@`~@^"), MxpCvzoZkOg("*^`$@%@*@~@#`~@^~``:`~@@*^`!`+```:`@@~@#`$@*`:`!`+"), MxpCvzoZkOg("*^`$@*`$`/`!`@~%`$`@`~@^"), MxpCvzoZkOg("*^`-`$`+`@`~*-`:@^@*`!@#@:~^`~@#@``:`^`~"), MxpCvzoZkOg("*^`-`$`+`+`~`/~*`$`#@^*^`!`+```:`@@~@#`$@*`:`!`+"), MxpCvzoZkOg("*^`-`$@#`$`^@*`~@#*$@%@%`~`$@#`$`+`^`~"), MxpCvzoZkOg("*^`-`$@#`$`^@*`~@#*;`~@^`-"), MxpCvzoZkOg("*^`-`$@*"), MxpCvzoZkOg("*^`-`$@**:`+@%@~@**#`$@#*^`!`+```:`@@~@#`$@*`:`!`+"), MxpCvzoZkOg("*^`-`$@*~@`:`+`*`!@@*^`!`+```:`@@~@#`$@*`:`!`+"), MxpCvzoZkOg("*^`-`$@*~@`:`+`*`!@@*;`~@^@^`$`@`~~%@#`!@%`~@#@*`:`~@^"), MxpCvzoZkOg("*^`-`!@#@~@^~^`!@~`+`**~`````~`^@*"), MxpCvzoZkOg("*^`/`:`^`(**`~@*`~`^@*`!@#"), MxpCvzoZkOg("*^`/`:`~`+@*~#`~@%`/`:`^`$@*`!@#"), MxpCvzoZkOg("*^`/`:`;`#*^`!`+@*@#`!`/`/`~@#"), MxpCvzoZkOg("*^`/`!@*`-`:`+`@"), MxpCvzoZkOg("*^`/`!@~`*@^"), MxpCvzoZkOg("*^`/@~@^@*`~@#~%`$`^`(`~@**^`$`^`-`~"), MxpCvzoZkOg("*^`!`/`/`~`^@*`:`!`+~^`~@#@``:`^`~"), MxpCvzoZkOg("*^`!`/`!@#^^~``$`/@~`~"), MxpCvzoZkOg("*^`!`/`!@#*^`!@#@#`~`^@*`:`!`+*~`````~`^@*"), MxpCvzoZkOg("*^`!`/`!@#*@@#`$`*`:`+`@*~`````~`^@*"), MxpCvzoZkOg("*^`!`;`;`~@#`^`~~^`~@#@``:`^`~"), MxpCvzoZkOg("*^`!`;@%`!@^`:@*`~~``$`/@~`~*^@~@#@``~"), MxpCvzoZkOg("*^`!`;@%@#`~@^@^`!@#~^`!@~`+`**~`````~`^@*"), MxpCvzoZkOg("*^`!`+`~*-`$`+`*`/`~*$`*`!@#`+`;`~`+@*"), MxpCvzoZkOg("*^`!`+```:`@~^`~@#@``:`^`~"), MxpCvzoZkOg("*^`!`+```:`@~^`+`$@%@^`-`!@*"), MxpCvzoZkOg("*^`!`+```:`@@~@#`$@*`:`!`+"), MxpCvzoZkOg("*^`!`+```:`@@~@#`~~^`~@#@``~@#~^`~@#@``:`^`~"), MxpCvzoZkOg("*^`!`+@^@*@#`$`:`+@*"), MxpCvzoZkOg("*^`!`+@*`~`+@*~%@#`!@``:`*`~@#"), MxpCvzoZkOg("*^`!`+@*`~@-@**$`^@*`:`!`+~^`~@#@``:`^`~"), MxpCvzoZkOg("*^`!`+@*@#`!`/`/`~@#"), MxpCvzoZkOg("*^`!`+@*@#`!`/`/`~@#*#`$@^`~"), MxpCvzoZkOg("*^`!`+@*@#`!`/`/`~@#*;`$`+`$`@`~@#"), MxpCvzoZkOg("*^`!`+@*@#`!`/`/`~@#~%`$@#@*~^`~`+@^`!@#"), MxpCvzoZkOg("*^`!`+@*@#`!`/`/`~@#~^`~`+@^`!@#"), MxpCvzoZkOg("*^`!`+@*@#`!`/`/`~@#~^`~@#@``:`^`~"), MxpCvzoZkOg("*^`!`!`(`:`~@^~^`~@#@``:`^`~"), MxpCvzoZkOg("*^`!@#`~*@@~`:*^`!`+```:`@@~@#`$@*`:`!`+"), MxpCvzoZkOg("*^`!@#`~~^`^@#`:@%@***`~`#@~`@`@`:`+`@*;`$`+`$`@`~@#*-`~`/@%`~@#"), MxpCvzoZkOg("*^`!@#`+`~@#~@`~`*`@`~~%`$@#@*"), MxpCvzoZkOg("*^@#`~`$@*`!@#~^@*`!@#`~~^`~@#@``:`^`~"), MxpCvzoZkOg("*^@~@#@``~*$`+`:`;`$@*`:`!`+"), MxpCvzoZkOg("*^@~@^@*`!`;*~@``~`+@*"), MxpCvzoZkOg("*^@~@^@*`!`;*~@``~`+@*~#`~`^`~`:@``~@#"), MxpCvzoZkOg("*^@:`/`:`+`*`~@#*-`$`+`*`/`~*$`*`!@#`+`;`~`+@*"), MxpCvzoZkOg("*^@:`/`:`+`*`~@#*;`~@^`-"), MxpCvzoZkOg("*^@:`/`:`+`*@#`:`^`$`/*^`!`+@^@*@#`$`:`+@*"), MxpCvzoZkOg("**`$@*`$*;`!`*`~`/"), MxpCvzoZkOg("**`$@*`$*;`!`*`~`/*;`~@^`-"), MxpCvzoZkOg("**`$@*`$*;`!`*`~`/~^`~@^@^`:`!`+"), MxpCvzoZkOg("**`$@*`$~^@*`!@#`~"), MxpCvzoZkOg("**`$@*`$~^@*`!@#`~*@`~@**!@%@*`:`!`+@^"), MxpCvzoZkOg("**`$@*`$~^@*`!@#`~*:`+`^@#`~`;`~`+@**!@%@*`:`!`+@^"), MxpCvzoZkOg("**`$@*`$~^@*`!@#`~*:`+```!"), MxpCvzoZkOg("**`$@*`$~^@*`!@#`~*(`~@:"), MxpCvzoZkOg("**`$@*`$~^@*`!@#`~*(`~@:*:`+```!"), MxpCvzoZkOg("**`$@*`$~^@*`!@#`~*(`~@:~%`$`@`~@^"), MxpCvzoZkOg("**`$@*`$~^@*`!@#`~*/`:@^@*`:`+`@~%`$`@`~@^"), MxpCvzoZkOg("**`$@*`$~^@*`!@#`~*!`#`.`~`^@*~``~@#@^`:`!`+*:`+```!"), MxpCvzoZkOg("**`$@*`$~^@*`!@#`~*!@%@*`:`!`+@^"), MxpCvzoZkOg("**`$@*`$~^@*`!@#`~~%`$`@`~@^"), MxpCvzoZkOg("**`$@*`$~^@*`!@#`~~^`~@#@``:`^`~"), MxpCvzoZkOg("**`$@*`$~^@*`!@#`~~^`~@**!@%@*`:`!`+@^"), MxpCvzoZkOg("**`$@*`$~^@*`!@#`~~``~@#@^`:`!`+~%`$`@`~@^"), MxpCvzoZkOg("**`~`#@#`:@^"), MxpCvzoZkOg("**`~`^`$`/"), MxpCvzoZkOg("**`~@%@*`-*!``*``:`~`/`**~`````~`^@*"), MxpCvzoZkOg("**`:`$`/`!`@"), MxpCvzoZkOg("**`:`$`/`!`@*^`-`!`:`^`~"), MxpCvzoZkOg("**`:`@`:@*@^~#`:`@**`~@^`^@#`:@%@*`:`!`+"), MxpCvzoZkOg("**`:@^@*`!@#@*`:`!`+~^`!@~`+`**~`````~`^@*"), MxpCvzoZkOg("**`!@~`#`/`~*^`!`+@^@*@#`$`:`+`~`*~``$`/@~`~"), MxpCvzoZkOg("**@#`$`@**`~@*`~`^@*`!@#"), MxpCvzoZkOg("**@#`$`@`@`~@#"), MxpCvzoZkOg("**@:`+`$`;`:`^~#`!@*`$@*`~"), MxpCvzoZkOg("*~`^`-`!~^`!@~`+`**~`````~`^@*"), MxpCvzoZkOg("*~`*`:@*`$`#`/`~*:`;`$`@`~"), MxpCvzoZkOg("*~`*`:@*`$`#`/`~*;`~@^`-"), MxpCvzoZkOg("*~`+`^`!`*`:`+`@~^`~@#@``:`^`~"), MxpCvzoZkOg("*~@$@~`$`/`:@.`~@#~^`!@~`+`**~`````~`^@*"), MxpCvzoZkOg("*~@~`/`~@#~#`!@*`$@*`:`!`+*^@~@#@``~"), MxpCvzoZkOg("*~@-@%`~@#`:`~`+`^`~*:`+@``:@*`~*!@%@*`:`!`+@^"), MxpCvzoZkOg("*~@-@%`~@#`:`~`+`^`~*+`!@*`:```:`^`$@*`:`!`+~^`~@#@``:`^`~"), MxpCvzoZkOg("*~@-@%`/`!@^`:`!`+"), MxpCvzoZkOg("*``$`^`~*^`!`+@*@#`!`/@^"), MxpCvzoZkOg("*``$`^`~*:`+@^@*`$`+`^`~"), MxpCvzoZkOg("*``~`$@*@~@#`~"), MxpCvzoZkOg("*``~`$@*@~@#`~~#`~@^@*@#`:`^@*`:`!`+*;`$`+`$`@`~@#"), MxpCvzoZkOg("*``:`/`~"), MxpCvzoZkOg("*``:`/`~*;`~@^`-"), MxpCvzoZkOg("*``:@#`~"), MxpCvzoZkOg("*``/`$`@"), MxpCvzoZkOg("*``/`$`@~^@*`$`+`*"), MxpCvzoZkOg("*``/`$`@~^@*`$`+`*~^`~@#@``:`^`~"), MxpCvzoZkOg("*``/`$`+`@`~~^`!@~`+`**~`````~`^@*"), MxpCvzoZkOg("*``/`!`$@**^@~@#@``~"), MxpCvzoZkOg("*``/`!`!@#~@`:@#`~"), MxpCvzoZkOg("*``/@~`:`**``!@#`^`~~^`~`+@^`!@#"), MxpCvzoZkOg("*``!`/`*`~@#"), MxpCvzoZkOg("*``!@#`^`~*``:`~`/`*"), MxpCvzoZkOg("*``!@#`;*``$`^@*`!@#~%`$@#@*"), MxpCvzoZkOg("*`@#`$`;`~"), MxpCvzoZkOg("*`@#`:`~`+`*~%`$`@`~@^"), MxpCvzoZkOg("*`@#`:`~`+`*~^`~@#@``:`^`~"), MxpCvzoZkOg("*`@~`+`^@*`:`!`+`$`/~*`~@^@*"), MxpCvzoZkOg("*@`$`;`~~%`$@^@^~^`~@#@``:`^`~"), MxpCvzoZkOg("*@`$`;`~@%`$`*~^`~@#@``:`^`~"), MxpCvzoZkOg("*@`~`+`~@#`$@*`~`**``!`/`*`~@#"), MxpCvzoZkOg("*@`~`+`~@#`$@*`:`!`+~^`~@#@``:`^`~"), MxpCvzoZkOg("*@`~`+`~@#`:`^*^`-`$`/`/`~`+`@`~~^`~@#@``:`^`~"), MxpCvzoZkOg("*@`~`!`;`~@*@#@:"), MxpCvzoZkOg("*@`~`!`;`~@*@#@:~^`~@#@``:`^`~"), MxpCvzoZkOg("*@`~@*~*`~@-@**#`!@~`+`*@^~%`$@#`$`;@^"), MxpCvzoZkOg("*@`/`!`#`$`/**`$@*`$~^@*`!@#`~"), MxpCvzoZkOg("*@`/@~`~"), MxpCvzoZkOg("*@@#`!@~`+`**^`!`+@*@#`!`/`/`~@#"), MxpCvzoZkOg("*@@#`!@~@%~^`~@#@``:`^`~"), MxpCvzoZkOg("*@@~`:*#`$@^`~"), MxpCvzoZkOg("*@@~`:*#`$@^`~^#`*"), MxpCvzoZkOg("*@@~`:*#`$@^`~^^`*"), MxpCvzoZkOg("*@@~`:*#@~@*@*`!`+"), MxpCvzoZkOg("*@@~`:*/`$`#`~`/"), MxpCvzoZkOg("*@@~`:*;`$`:`+"), MxpCvzoZkOg("*@@~`:*!`#`.`~`^@*"), MxpCvzoZkOg("*@@~`:~^`~@#@``:`^`~"), MxpCvzoZkOg("*@@~`:`*~#`~`@`:@^@*@#@:~^`~@#@``:`^`~"), MxpCvzoZkOg("*-~^~#**`$@*`$*^`!`+@*`~`+@*~%@#`!@``:`*`~@#"), MxpCvzoZkOg("*-`$`+`*`/`~*$`*`!@#`+`;`~`+@*"), MxpCvzoZkOg("*-`$`+`*`/`~@^"), MxpCvzoZkOg("*-`$`+`*`/`~@^*#`$@^`~"), MxpCvzoZkOg("*-`$@%@*`:`^*~`````~`^@*"), MxpCvzoZkOg("*-`$@%@*`:`^~^`~@#@``:`^`~"), MxpCvzoZkOg("*-`$@*"), MxpCvzoZkOg("*-`~`$@%~%@#`!```:`/`~@#~^`~@#@``:`^`~"), MxpCvzoZkOg("*-`~`:`@`-@*`;`$@%*:`;@%`!@#@*`~@#~^`~@#@``:`^`~"), MxpCvzoZkOg("*-`:`*`*`~`+~^@~@#```$`^`~~#`~`;`!@``$`/*$@^@^`~@*"), MxpCvzoZkOg("*-`:`@`-`/`:`@`-@*"), MxpCvzoZkOg("*-`:`+`@`~*^`!`+@^@*@#`$`:`+@*"), MxpCvzoZkOg("*-`:`+@*"), MxpCvzoZkOg("*-`!`/`~"), MxpCvzoZkOg("*-`!@%@%`~@#"), MxpCvzoZkOg("*-`!@%@%`~@#*#`:`+"), MxpCvzoZkOg("*-@*@*@%~#`#@-*$@%`:~^`~@#@``:`^`~"), MxpCvzoZkOg("*-@*@*@%~^`~@#@``:`^`~"), MxpCvzoZkOg("*-@~`;`$`+`!`:`*"), MxpCvzoZkOg("*-@~`;`$`+`!`:`**^`!`+@*@#`!`/`/`~@#"), MxpCvzoZkOg("*-@~`;`$`+`!`:`***`~@^`^@#`:@%@*`:`!`+"), MxpCvzoZkOg("*-@~`;`$`+`!`:`*~#`:`@**`~@^`^@#`:@%@*`:`!`+"), MxpCvzoZkOg("*:*(*^`!`+@*@#`!`/"), MxpCvzoZkOg("*:*/`~`@`$`^@:~^@*@~`*`:`!*#@#`:`*`@`~"), MxpCvzoZkOg("*:`;`$`@`~*#@~@*@*`!`+"), MxpCvzoZkOg("*:`;`$`@`~*-`$`+`*`/`~*$`*`!@#`+`;`~`+@*"), MxpCvzoZkOg("*:`;`$`@`~*/`$`#`~`/"), MxpCvzoZkOg("*:`+`^@#`~`;`~`+@*`$`/~%`$@*`^`-*#@~`:`/`*`~@#"), MxpCvzoZkOg("*:`+@%@~@**$`^@*`:`!`+"), MxpCvzoZkOg("*:`+@%@~@**#`:`+`*`:`+`@"), MxpCvzoZkOg("*:`+@%@~@**^`!`+@*`~@-@*"), MxpCvzoZkOg("*:`+@%@~@**!`#`.`~`^@*"), MxpCvzoZkOg("*:`+@^`~@#@*~^`~@#@``:`^`~"), MxpCvzoZkOg("*:`+@^@*`$`+`^`~"), MxpCvzoZkOg("*:`+@^@*`$`+`^`~*$`*`!@#`+`;`~`+@*"), MxpCvzoZkOg("*:`+@^@*`$`+`^`~*~@-@*`~`+@^`:`!`+@^~^`~@#@``:`^`~"), MxpCvzoZkOg("*:`+@**^`!`+@^@*@#`$`:`+`~`*~``$`/@~`~"), MxpCvzoZkOg("*:`+@*~``$`/@~`~"), MxpCvzoZkOg("*:`+@*`~@#@^`~`^@**!@%`~@#`$@*`:`!`+"), MxpCvzoZkOg("*:`+@``~`+@*`!@#@:~%`$`@`~@^"), MxpCvzoZkOg("*.`!`:`+@**:`+@^@*`$`+`^`~"), MxpCvzoZkOg("*.`!`:`+@*@^~^`~@#@``:`^`~"), MxpCvzoZkOg("*(`~@:`#`!`$@#`*~^`~@#@``:`^`~"), MxpCvzoZkOg("*(`~@:``@#`$`;`~"), MxpCvzoZkOg("*(`~@:``@#`$`;`~*;`$@#`(`~@#"), MxpCvzoZkOg("*(`~@:``@#`$`;`~~^`~@$@~`~`+`^`~"), MxpCvzoZkOg("*(`~@:``@#`$`;`~~^`~@$@~`~`+`^`~~%@#`!@``:`*`~@#"), MxpCvzoZkOg("*/`$@:`~@#*^`!`/`/`~`^@*`!@#"), MxpCvzoZkOg("*/`:`@`-@*"), MxpCvzoZkOg("*/`:`@`-@*`:`+`@"), MxpCvzoZkOg("*/`:`+`~*``!@#`^`~"), MxpCvzoZkOg("*/`:`+`~*-`$`+`*`/`~*$`*`!@#`+`;`~`+@*"), MxpCvzoZkOg("*/`:`+`~`$@#~``~`/`!`^`:@*@:"), MxpCvzoZkOg("*/`!`^`$`/~^`^@#`:@%@*"), MxpCvzoZkOg("*/`!`^`$`/`:@.`$@*`:`!`+~^`~@#@``:`^`~"), MxpCvzoZkOg("*/`!`^`$`/`:@.`$@*`:`!`+~*`$`#`/`~"), MxpCvzoZkOg("*/`!`@~^`~@#@``:`^`~"), MxpCvzoZkOg("*/`!`@`:`+~^`~@#@``:`^`~"), MxpCvzoZkOg("*/@~`$~^`!@~@#`^`~*^`!`+@*`$`:`+`~@#"), MxpCvzoZkOg("*/@~`$~@`~`#~^`~@#@``:`^`~"), MxpCvzoZkOg("*;*/~^`~@#@``:`^`~"), MxpCvzoZkOg("*;*/~^`~@^@^`:`!`+"), MxpCvzoZkOg("*;`$`(`~@~@%**`~@^`^@#`:@%@*`:`!`+"), MxpCvzoZkOg("*;`$`+@~`$`/*@`/@~`~"), MxpCvzoZkOg("*;`$`+@~`$`/~^@~@#```$`^`~*.`!`:`+@**:`+@^@*`$`+`^`~"), MxpCvzoZkOg("*;`$`+@~`$`/~@`~`/`*"), MxpCvzoZkOg("*;`$@#`(`~@#*^@~@#@``~"), MxpCvzoZkOg("*;`$@#`(`~@*@%`/`$`^`~~^`~@#@``:`^`~"), MxpCvzoZkOg("*;`$@*`^`-`;`$`(`:`+`@~^`~@#@``:`^`~"), MxpCvzoZkOg("*;`$@*`~@#`:`$`/~^`~@#@``:`^`~"), MxpCvzoZkOg("*;`$@*`~@#`:`$`/~``$@#`:`$`+@*"), MxpCvzoZkOg("*;`~`;~^@*`!@#`$`@`~*^`!`+`+`~`^@*`:`!`+"), MxpCvzoZkOg("*;`~`;~^@*`!@#`$`@`~~^`~@#@``:`^`~"), MxpCvzoZkOg("*;`~`;`!@#@:~^@*`!@#`~*-`$@^`-*;`$@%"), MxpCvzoZkOg("*;`~`;`!@#@:~^@*`!@#`~*-`$@^`-*;`$@%~%`$`@`~@^"), MxpCvzoZkOg("*;`~`;`!@#@:~^@*`!@#`~~$@~`~@~`~"), MxpCvzoZkOg("*;`~`;`!@#@:~^@*`!@#`~~^`~@#@``:`^`~"), MxpCvzoZkOg("*;`~`;`!@#@:~^@*`!@#`~~^`!@#@*`~`**;`$@%"), MxpCvzoZkOg("*;`~@^`-*^`!`+@*`~`+@*~%@#`!@``:`*`~@#"), MxpCvzoZkOg("*;`~@^`-~%`$@#@*"), MxpCvzoZkOg("*;`~@^@^`$`@`~"), MxpCvzoZkOg("*;`~@^@^`$`@`:`+`@~^`~@#@``:`^`~"), MxpCvzoZkOg("*;`:`^@#`!~%@#`!```:`/`~@#~^`~@#@``:`^`~"), MxpCvzoZkOg("*;`!`*`~`/"), MxpCvzoZkOg("*;`!`*`~@#`$@*`:`!`+~^`~@#@``:`^`~"), MxpCvzoZkOg("*;`!`*@~`/`~~^`^@#`:@%@*"), MxpCvzoZkOg("*;`!@*`!@#"), MxpCvzoZkOg("*;`!@*`!@#^`**"), MxpCvzoZkOg("*;`!@*`!@#*``~`$@*@~@#`~"), MxpCvzoZkOg("*;`!@~@^`~"), MxpCvzoZkOg("*;`!@~@^`~~^`~@#@``:`^`~"), MxpCvzoZkOg("*+`~`@`$@*`~*!@%`~@#`$@*`:`!`+"), MxpCvzoZkOg("*+`~@*@@`!@#`(*;`$@#`(`~@#"), MxpCvzoZkOg("*+`~@*@@`!@#`(~%`~`~@#"), MxpCvzoZkOg("*+`~@*@@`!@#`(~#`~@%`/`:`^`$@*`!@#"), MxpCvzoZkOg("*+`!*^`!`/`/`:@^`:`!`+*^`!`+@^@*@#`$`:`+@*"), MxpCvzoZkOg("*+`!@*`:```:`^`$@*`:`!`+~^`~@#@``:`^`~"), MxpCvzoZkOg("*+@~`;`#`~@#~%`!@^`~"), MxpCvzoZkOg("*+@~`;`#`~@#~``$`/@~`~"), MxpCvzoZkOg("*!`#`.`~`^@*"), MxpCvzoZkOg("*!`#`.`~`^@*~``$`/@~`~"), MxpCvzoZkOg("*!@%`~`+*^`/`!@~`**$@%`:~`^$"), MxpCvzoZkOg("*!@%`~`+*^`/`!@~`*~^`~@#@``:`^`~"), MxpCvzoZkOg("*!@%`~@#`$@*`:`!`+*@@#`$@%`-"), MxpCvzoZkOg("*!@#`*`~@#`~`***`$@*`$~^@*`!@#`~"), MxpCvzoZkOg("*!@~@*```:@*~%`$`@`~@^"), MxpCvzoZkOg("~%~`*$`*`!@#`+`;`~`+@*"), MxpCvzoZkOg("~%~`*:`+@^@*`$`+`^`~"), MxpCvzoZkOg("~%`$`^`(`$`@`~*/`:`+`("), MxpCvzoZkOg("~%`$`^`(`$`@`~~^`~@#@``:`^`~"), MxpCvzoZkOg("~%`$`^`(`$`@`~@^"), MxpCvzoZkOg("~%`$`@`~@^"), MxpCvzoZkOg("~%`$`+@*@^"), MxpCvzoZkOg("~%`$@#@**$`*`!@#`+`;`~`+@*"), MxpCvzoZkOg("~%`$@#@**!@%`~@#`$@*`:`!`+"), MxpCvzoZkOg("~%`$@#@**!@%`~@#`$@*`:`!`+*$@^@^`~@*"), MxpCvzoZkOg("~%`$@#@*`:`^`/`~*~`;`:@*@*`~@#"), MxpCvzoZkOg("~%`$@*`^`-*#@~`+`*`/`~@#*``:`/`~~@`$@*`^`-"), MxpCvzoZkOg("~%`$@*`^`-*;`$@%@%`:`+`@"), MxpCvzoZkOg("~%`$@*`-"), MxpCvzoZkOg("~%`$@*`-^#**"), MxpCvzoZkOg("~%`$@*`-```:`+`*`:`+`@*/`:`+`("), MxpCvzoZkOg("~%`$@*`-```:`+`*`:`+`@*;`!`*`:```:`~@#"), MxpCvzoZkOg("~%`$@*`-```:`+`*`:`+`@~^`~@#@``:`^`~"), MxpCvzoZkOg("~%`~@#`;`:@^@^`:`!`+@^~^`~@#@``:`^`~"), MxpCvzoZkOg("~%`-@:@^`:`^@^~^`~@#@``:`^`~"), MxpCvzoZkOg("~%`:@*`^`-~^`-`:``@*~^`!@~`+`**~`````~`^@*"), MxpCvzoZkOg("~%`/`$`^`~@^~^`~@#@``:`^`~"), MxpCvzoZkOg("~%`/`$`+`~"), MxpCvzoZkOg("~%`/`$`+`~*^`!`+@^@*@#`$`:`+@*"), MxpCvzoZkOg("~%`/`$@*```!@#`;"), MxpCvzoZkOg("~%`/`$@:`~@#**`$@*`$"), MxpCvzoZkOg("~%`/`$@:`~@#**`$@*`$~#`~`^`!@#`*"), MxpCvzoZkOg("~%`/`$@:`~@#**`$@*`$~#`~`^`!@#`**^`!`+```:`@"), MxpCvzoZkOg("~%`/`$@:`~@#**`$@*`$~^`~@#@``:`^`~"), MxpCvzoZkOg("~%`/`$@:`~@#*@@~`:"), MxpCvzoZkOg("~%`/`$@:`~@#*/`:@^@**^`!`+```:`@@~@#`$@*`:`!`+"), MxpCvzoZkOg("~%`/`$@:`~@#*;`!@~@^`~"), MxpCvzoZkOg("~%`/`$@:`~@#~^`^@#`:@%@*@^"), MxpCvzoZkOg("~%`/`$@:`~@#~``:`~@@~^`~@#@``:`^`~"), MxpCvzoZkOg("~%`/`$@:`~@#@^"), MxpCvzoZkOg("~%`/@~`@`:`+*;`$`+`$`@`~`;`~`+@*~^`~@#@``:`^`~"), MxpCvzoZkOg("~%`!`:`+@**/`:`@`-@*"), MxpCvzoZkOg("~%`!`:`+@*@^~^`~@#@``:`^`~"), MxpCvzoZkOg("~%`!`/`:`^@:~^`~@#@``:`^`~"), MxpCvzoZkOg("~%`!@^`~"), MxpCvzoZkOg("~%`!@^`~*#`$@^`~"), MxpCvzoZkOg("~%`!@^@**~`````~`^@*"), MxpCvzoZkOg("~%@#`~`/`!`$`*`~`*"), MxpCvzoZkOg("~%@#`:@^`;`$@*`:`^*^`!`+@^@*@#`$`:`+@*"), MxpCvzoZkOg("~%@#`!`^`~`*@~@#`$`/*;`!`*`~`/"), MxpCvzoZkOg("~%@#`!`^`~@^@^*:`+@^@*`$`+`^`~~%`-@:@^`:`^@^~^`~@#@``:`^`~"), MxpCvzoZkOg("~%@#`!@-`:`;`:@*@:~%@#`!`;@%@*"), MxpCvzoZkOg("~%@#`!@-`:`;`:@*@:~%@#`!`;@%@*~^`~@#@``:`^`~"), MxpCvzoZkOg("~%@~`#`/`:@^`-~^`~@#@``:`^`~"), MxpCvzoZkOg("~%@:@#`$`;`:`**-`$`+`*`/`~*$`*`!@#`+`;`~`+@*"), MxpCvzoZkOg("~#`$@:~``$`/@~`~"), MxpCvzoZkOg("~#`~`^`!`;`;`~`+`*`$@*`:`!`+~%`$`@`~@^"), MxpCvzoZkOg("~#`~`^`!`;`;`~`+`*`$@*`:`!`+~^`~@#@``:`^`~"), MxpCvzoZkOg("~#`~```/`~`^@*`:`!`+*;`~@*`$`*`$@*`$"), MxpCvzoZkOg("~#`~```/`~`^@*`:`!`+*;`~@*`$`*`$@*`$*^`$`/`/`#`$`^`(@^"), MxpCvzoZkOg("~#`~```/`~`^@*`:`!`+*;`~@*`$`*`$@*`$*^`/`$@^@^"), MxpCvzoZkOg("~#`~```/`~`^@*`:`!`+*;`~@*`$`*`$@*`$*^`/`$@^@^`~@^"), MxpCvzoZkOg("~#`~```/`~`^@*`:`!`+*;`~@*`$`*`$@*`$*~`+@~`;"), MxpCvzoZkOg("~#`~```/`~`^@*`:`!`+*;`~@*`$`*`$@*`$*~`+@~`;*:@*`~`;"), MxpCvzoZkOg("~#`~```/`~`^@*`:`!`+*;`~@*`$`*`$@*`$*~`+@~`;@^"), MxpCvzoZkOg("~#`~```/`~`^@*`:`!`+*;`~@*`$`*`$@*`$*~@``~`+@*@^"), MxpCvzoZkOg("~#`~```/`~`^@*`:`!`+*;`~@*`$`*`$@*`$*`@~`+`^@*`:`!`+@^"), MxpCvzoZkOg("~#`~```/`~`^@*`:`!`+*;`~@*`$`*`$@*`$*:@*`~`;"), MxpCvzoZkOg("~#`~```/`~`^@*`:`!`+*;`~@*`$`*`$@*`$*;`~`;`#`~@#"), MxpCvzoZkOg("~#`~```/`~`^@*`:`!`+*;`~@*`$`*`$@*`$~%@#`!@%`~@#@*`:`~@^"), MxpCvzoZkOg("~#`~```/`~`^@*`:`!`+*;`~@*`$`*`$@*`$~:`:`~`/`**`@~`+`^@*`:`!`+@^"), MxpCvzoZkOg("~#`~`;`!@*`~*^`!`;`;`$`+`*~^`~@#@``:`^`~"), MxpCvzoZkOg("~#`~`;`!@*`~**`~`#@~`@`@`~@#~^`~@#@``~@#"), MxpCvzoZkOg("~#`~`;`!@*`~*~@``~`+@*"), MxpCvzoZkOg("~#`~`;`!@*`~*`@~`+`^@*`:`!`+"), MxpCvzoZkOg("~#`~`+`*`~@#`:`+`@~*`~@^@*"), MxpCvzoZkOg("~#`~@%`/`:`^`$@*`~`**``:@#@^@*"), MxpCvzoZkOg("~#`~@%`/`:`^`$@*`~`*~^@*`!@#`$`@`~"), MxpCvzoZkOg("~#`~@``~@#`#~^`!@~`+`**~`````~`^@*"), MxpCvzoZkOg("~#`:`@`:`**^`!`+@^@*@#`$`:`+@*"), MxpCvzoZkOg("~#`!`^`(`~@*~%@#`!@%@~`/@^`:`!`+"), MxpCvzoZkOg("~#`!`**^`!`+@^@*@#`$`:`+@*"), MxpCvzoZkOg("~#`!@%`~*^`!`+@^@*@#`$`:`+@*"), MxpCvzoZkOg("~#`!@*`$@*`~"), MxpCvzoZkOg("~#`!@*`$@*`~~%"), MxpCvzoZkOg("~#`!@*`$@*`~~`"), MxpCvzoZkOg("~#`!@*`$@*`:`!`+*^@~@#@``~"), MxpCvzoZkOg("~#@~`+~^`~@#@``:`^`~"), MxpCvzoZkOg("~#@~`+`+`:`+`@*$@``~@#`$`@`~*:@*`~`;**`!@~`#`/`~"), MxpCvzoZkOg("~#@~`+`+`:`+`@*$@``~@#`$`@`~*:@*`~`;*:`+@*"), MxpCvzoZkOg("~#@~`+`+`:`+`@*$@``~@#`$`@`~~*`:`;`~*:`+@*`~@#@``$`/*:@*`~`;"), MxpCvzoZkOg("~^`^`~`+`~*$`+`$`/@:@^`:@^~^`~@#@``:`^`~"), MxpCvzoZkOg("~^`^@#`~`~`+*@@~`:"), MxpCvzoZkOg("~^`^@#`~`~`+@^`-`!@**^`$@%@*@~@#`~"), MxpCvzoZkOg("~^`^@#`~`~`+@^`-`!@**-@~`*"), MxpCvzoZkOg("~^`^@#`:@%@*"), MxpCvzoZkOg("~^`^@#`:@%@**#@~`:`/`*`~@#"), MxpCvzoZkOg("~^`^@#`:@%@**^`!`+@*`~@-@*"), MxpCvzoZkOg("~^`^@#`:@%@*~%@#`!```:`/`~@#~^`~@#@``:`^`~"), MxpCvzoZkOg("~^`^@#`:@%@*~^`~@#@``:`^`~"), MxpCvzoZkOg("~^`^@#`!`/`/`:`+`@*`@#`$`;`~"), MxpCvzoZkOg("~^`~`$@*"), MxpCvzoZkOg("~^`~`/`~`^@*`:`!`+"), MxpCvzoZkOg("~^`~`/`~`^@*`:`!`+*#`!@-"), MxpCvzoZkOg("~^`~`/`~`^@*`:`!`+*-`:`@`-`/`:`@`-@**;`$`+`$`@`~@#"), MxpCvzoZkOg("~^`~`/`~`^@*`:`!`+*/`$@^@^`!"), MxpCvzoZkOg("~^`~`/`~`^@*`:`!`+~%`$@#@**/`$@^@^`!"), MxpCvzoZkOg("~^`~`/`~`^@*`:`!`+~%`!`:`+@**/`$@^@^`!"), MxpCvzoZkOg("~^`~`/`~`^@*`:`!`+~^@%`-`~@#`~"), MxpCvzoZkOg("~^`~`/``~``:`~@@*^`!`+```:`@@~@#`$@*`:`!`+"), MxpCvzoZkOg("~^`~`+@^`!@#*#`$@^`~"), MxpCvzoZkOg("~^`~@#@``~@#~#`~@%`/`:`^`$@*`!@#"), MxpCvzoZkOg("~^`~@#@``~@#~^`^@#`:@%@*~^`~@#@``:`^`~"), MxpCvzoZkOg("~^`~@#@``~@#~^@*`!@#`$`@`~"), MxpCvzoZkOg("~^`~@#@``:`^`~~%@#`!@``:`*`~@#"), MxpCvzoZkOg("~^`~@#@``:`^`~~``:@^`:`#`:`/`:@*@:~^`~@#@``:`^`~"), MxpCvzoZkOg("~^`~@^@^`:`!`+*^`-`~`^`(~^`~@#@``:`^`~"), MxpCvzoZkOg("~^`-`$@#`~`*~*`$`#`/`~~#`~`@`:@^@*@#@:"), MxpCvzoZkOg("~^`-`:@#@*"), MxpCvzoZkOg("~^`-`:@#@**@@#`$@%`-`:`^"), MxpCvzoZkOg("~^`(`$@*`~`#`!`$@#`**^`!`+@*@#`!`/`/`~@#"), MxpCvzoZkOg("~^`(`$@*`~`#`!`$@#`*~%`/`$@*```!@#`;"), MxpCvzoZkOg("~^`(`:`+"), MxpCvzoZkOg("~^`(@:"), MxpCvzoZkOg("~^`/`:`*`:`+`@*#`$`/`/*^`!`+@^@*@#`$`:`+@*"), MxpCvzoZkOg("~^`/`:`;*^`!`+@*`~`+@*~%@#`!@``:`*`~@#"), MxpCvzoZkOg("~^`;`!`(`~"), MxpCvzoZkOg("~^`;`!`!@*`-~``!@-`~`/@^~~@%`@@#`$`*`~@#~^`~@#@``:`^`~"), MxpCvzoZkOg("~^`+`$@%"), MxpCvzoZkOg("~^`!`^`:`$`/~^`~@#@``:`^`~"), MxpCvzoZkOg("~^`!`/`:`**;`!`*`~`/*^`!`+@*`~`+@*~%@#`!@``:`*`~@#"), MxpCvzoZkOg("~^`!@~`+`*"), MxpCvzoZkOg("~^`!@~`+`**~`````~`^@*"), MxpCvzoZkOg("~^`!@~`+`**@@#`!@~@%"), MxpCvzoZkOg("~^`!@~`+`*~^`~@#@``:`^`~"), MxpCvzoZkOg("~^@%`$@#`(`/`~@^"), MxpCvzoZkOg("~^@%`$@@`+*/`!`^`$@*`:`!`+"), MxpCvzoZkOg("~^@%`$@@`+`~@#~^`~@#@``:`^`~"), MxpCvzoZkOg("~^@%`~`^`:`$`/*;`~@^`-"), MxpCvzoZkOg("~^@%`-`~@#`~*-`$`+`*`/`~*$`*`!@#`+`;`~`+@*"), MxpCvzoZkOg("~^@%`!@**/`:`@`-@*"), MxpCvzoZkOg("~^@%@#`:`+`@*^`!`+@^@*@#`$`:`+@*"), MxpCvzoZkOg("~^@*`$`+`*`$@#`*~%`$`@`~@^"), MxpCvzoZkOg("~^@*`$@#@*`~@#*^`-`$@#`$`^@*`~@#~^`^@#`:@%@*@^"), MxpCvzoZkOg("~^@*`$@#@*`~@#*@`~`$@#"), MxpCvzoZkOg("~^@*`$@#@*`~@#*@@~`:"), MxpCvzoZkOg("~^@*`$@#@*`~@#~%`$`^`("), MxpCvzoZkOg("~^@*`$@#@*`~@#~%`/`$@:`~@#"), MxpCvzoZkOg("~^@*`$@#@*`~@#~%`/`$@:`~@#~^`^@#`:@%@*@^"), MxpCvzoZkOg("~^@*`$@#@*@~@%*;`~@^@^`$`@`~~^`~@#@``:`^`~"), MxpCvzoZkOg("~^@*`$@*@^"), MxpCvzoZkOg("~^@*`$@*@^*:@*`~`;"), MxpCvzoZkOg("~^@*`$@*@~@^"), MxpCvzoZkOg("~^@*`!@%~@`$@*`^`-~#`~@%`!@#@*`~@#"), MxpCvzoZkOg("~^@*@#`:`+`@~``$`/@~`~"), MxpCvzoZkOg("~^@*@~`*`:`!~*`~@^@*~^`~@#@``:`^`~"), MxpCvzoZkOg("~^@*@~`*`:`!~*`-`~`;`~"), MxpCvzoZkOg("~^@*@:`/`~*#`$@^`~"), MxpCvzoZkOg("~^@*@:`/`~**`~@#`:@``~"), MxpCvzoZkOg("~^@*@:`/`~*/`:`+`("), MxpCvzoZkOg("~^@*@:`/`~~$@~`~@#@:"), MxpCvzoZkOg("~^@*@:`/`~~#@~`/`~"), MxpCvzoZkOg("~^@*@:`/`~~^`-`~`~@*"), MxpCvzoZkOg("~^@*@:`/`:`+`@~^`~@#@``:`^`~"), MxpCvzoZkOg("~^@~`+~#`$@:@^*~`````~`^@*"), MxpCvzoZkOg("~^@~@#```$`^`~*$@%@%`~`$@#`$`+`^`~"), MxpCvzoZkOg("~^@~@#```$`^`~*@@~`:"), MxpCvzoZkOg("~^@~@#```$`^`~*@@~`:*#`$@^`~"), MxpCvzoZkOg("~^@~@#```$`^`~*/`:`@`-@*"), MxpCvzoZkOg("~^@~@#```$`^`~~^`~`/`~`^@*`:`!`+"), MxpCvzoZkOg("~^@@`:`;*^`!`+@*@#`!`/`/`~@#"), MxpCvzoZkOg("~^@:`+`^~^`^@#`:@%@**#@~`:`/`*`~@#"), MxpCvzoZkOg("~*`~`$`;"), MxpCvzoZkOg("~*`~`$`;@^"), MxpCvzoZkOg("~*`~`/`~@%`!@#@**$@^@:`+`^~#`~@^@~`/@*"), MxpCvzoZkOg("~*`~`/`~@%`!@#@**!@%@*`:`!`+@^"), MxpCvzoZkOg("~*`~`/`~@%`!@#@*~^`~@#@``:`^`~"), MxpCvzoZkOg("~*`~@#@#`$`:`+"), MxpCvzoZkOg("~*`~@#@#`$`:`+**`~@*`$`:`/"), MxpCvzoZkOg("~*`~@#@#`$`:`+*:@*`~@#`$@*`~*!@%`~@#`$@*`:`!`+"), MxpCvzoZkOg("~*`~@#@#`$`:`+*;`!`*`:``@:*!@%`~@#`$@*`:`!`+"), MxpCvzoZkOg("~*`~@#@#`$`:`+~#`~`$`**!@%`~@#`$@*`:`!`+"), MxpCvzoZkOg("~*`~@#@#`$`:`+~#`~`@`:`!`+"), MxpCvzoZkOg("~*`~@#@#`$`:`+~@@#`:@*`~*!@%`~@#`$@*`:`!`+"), MxpCvzoZkOg("~*`~@^@**^`$@^`~"), MxpCvzoZkOg("~*`~@^@*~^`~@#@``:`^`~"), MxpCvzoZkOg("~*`~@-@**#`!@-"), MxpCvzoZkOg("~*`~@-@**#`!@-~^`~@#@``:`^`~"), MxpCvzoZkOg("~*`~@-@**#@~@*@*`!`+"), MxpCvzoZkOg("~*`~@-@**^`-`$`+`+`~`/"), MxpCvzoZkOg("~*`~@-@**^`-`$`+`+`~`/~@`:`+`*`!@@"), MxpCvzoZkOg("~*`~@-@**^`-`$@**^`!`;`;`$`+`*"), MxpCvzoZkOg("~*`~@-@**^`-`$@**^`!`+```:`@@~@#`$@*`:`!`+@^"), MxpCvzoZkOg("~*`~@-@**^`-`$@**;`~@^@^`$`@`~"), MxpCvzoZkOg("~*`~@-@**^`-`$@**;`~@^@^`$`@`~~%@#`!@%`~@#@*`:`~@^"), MxpCvzoZkOg("~*`~@-@**^`-`$@*~^`~@#@``:`^`~"), MxpCvzoZkOg("~*`~@-@**``:`/@*`~@#~#`~@^@~`/@*"), MxpCvzoZkOg("~*`~@-@**``:`/@*`~@#~*@#`$`+@^`/`$@*`~`*~#`~@^@~`/@*"), MxpCvzoZkOg("~*`~@-@**@`~`+`~@#`$@*`!@#"), MxpCvzoZkOg("~*`~@-@**/`$`#`~`/"), MxpCvzoZkOg("~*`~@-@*~^`~@#@``:`^`~"), MxpCvzoZkOg("~*`~@-@*~^`!@~@#`^`~"), MxpCvzoZkOg("~*`~@-@*@~@#`~"), MxpCvzoZkOg("~*`:`;`~@#~^`~@#@``:`^`~"), MxpCvzoZkOg("~*`!`!`/"), MxpCvzoZkOg("~*`!@#@$@~`~"), MxpCvzoZkOg("~*`!@#@^`:`!`+~^@%@#`:`+`@*^`!`+@^@*@#`$`:`+@*"), MxpCvzoZkOg("~*`!@*`$`/*^`!@~`+@*~*`:`;`~*:`+@*`~@#@``$`/*:@*`~`;"), MxpCvzoZkOg("~*`!@~`^`-*:`+@%@~@*~^`~@#@``:`^`~"), MxpCvzoZkOg("~*`!@~`^`-~*@#`$`+@^`;`:@*@*`~@#"), MxpCvzoZkOg("~*@#`$`^`~~#`!@~@*`~~^`~@#@``:`^`~"), MxpCvzoZkOg("~*@#`$`:`/"), MxpCvzoZkOg("~*@#`$`+@^`/`$@*`!@#"), MxpCvzoZkOg("~*@#`~`;`!`/`!~^`!@~`+`**~`````~`^@*"), MxpCvzoZkOg("~*@#`:`$`+`@`/`~*;`~@^`-~%`$@#@*"), MxpCvzoZkOg("~*@#@~@^@^~%`$@#@*"), MxpCvzoZkOg("~*@@`~`~`+"), MxpCvzoZkOg("~*@@`~`~`+*#`$@^`~"), MxpCvzoZkOg("~*@@`~`~`+~^`~@#@``:`^`~"), MxpCvzoZkOg("~~*@*^~``$`/`:`*`$@*`:`!`+~^`~@#@``:`^`~"), MxpCvzoZkOg("~~*:*$@^@%`~`^@*~#`$@*`:`!*^`!`+@^@*@#`$`:`+@*"), MxpCvzoZkOg("~~*:*#`$@^`~"), MxpCvzoZkOg("~~*:*^`!`;@%`!`+`~`+@*"), MxpCvzoZkOg("~~*:*^`!`+@^@*@#`$`:`+@*"), MxpCvzoZkOg("~~*:*^`!@#`+`~@#"), MxpCvzoZkOg("~~*:**@#`$`@**`~@*`~`^@*`!@#"), MxpCvzoZkOg("~~*:**@#`$`@**`~@*`~`^@*`!@#~^`~@#@``:`^`~"), MxpCvzoZkOg("~~*:*``/`~@-*:@*`~`;"), MxpCvzoZkOg("~~*:*@@#`$`*`:`~`+@*"), MxpCvzoZkOg("~~*:*@@#`:`**/`$@:`!@~@*"), MxpCvzoZkOg("~~*:*@@#`:`*~^@*@:`/`~*/`$@:`!@~@*"), MxpCvzoZkOg("~~*:*/`$@:`!@~@*"), MxpCvzoZkOg("~~*:*/`:@^@**/`$@:`!@~@*"), MxpCvzoZkOg("~~*:~%`$`*`*`:`+`@"), MxpCvzoZkOg("~~*:~%`$`@`~*/`$@:`!@~@*"), MxpCvzoZkOg("~~*:~^`^`$`/`~"), MxpCvzoZkOg("~~*:~^`-`$`*`!@@"), MxpCvzoZkOg("~~*:~^`:@.`~*^`!`+@^@*@#`$`:`+@*"), MxpCvzoZkOg("~~*:~^@*@#`!`(`~"), MxpCvzoZkOg("~~*:~*`$`#`/`~*/`$@:`!@~@*"), MxpCvzoZkOg("~~*:~*`~@-@*~^`:@.`~*^`!`+@^@*@#`$`:`+@*"), MxpCvzoZkOg("~~`+`:`!`+*!@%`~@#`$@*`:`!`+"), MxpCvzoZkOg("~~`+`:@$@~`~*:`**/`!`!`(@~@%~^`~@#@``:`^`~"), MxpCvzoZkOg("~~`+`:@``~@#@^`$`/*^`!`+@^@*@#`$`:`+@*"), MxpCvzoZkOg("~~`+@#`~`/`:`$`#`/`~~#`~`;`!@*`~*~@``~`+@*"), MxpCvzoZkOg("~~@^`~@#*:`+@%@~@*~^`~@#@``:`^`~"), MxpCvzoZkOg("~~@^`~@#~^`~@#@``:`^`~"), MxpCvzoZkOg("~`~#~^`~@#@``:`^`~"), MxpCvzoZkOg("~`~#~^@*`$@*@~@^~^`~@#@``:`^`~"), MxpCvzoZkOg("~``$`/@~`~*#`$@^`~"), MxpCvzoZkOg("~``$`/@~`~*^@~@#@``~"), MxpCvzoZkOg("~``~`^@*`!@#^^*^@~@#@``~"), MxpCvzoZkOg("~``~`^@*`!@#^^~``$`/@~`~"), MxpCvzoZkOg("~``~`^@*`!@#*``!@#`^`~"), MxpCvzoZkOg("~``~`-`:`^`/`~*^`!`+@*@#`!`/`/`~@#"), MxpCvzoZkOg("~``~`-`:`^`/`~~^`~`$@*"), MxpCvzoZkOg("~``~`/`!`^`:@*@:*;`!@*`!@#"), MxpCvzoZkOg("~``:`*`~`!*^`$@%@*@~@#`~"), MxpCvzoZkOg("~``:`*`~`!*^`$@%@*@~@#`~~^`~@#@``:`^`~"), MxpCvzoZkOg("~``:`*`~`!**`:@^@%`/`$@:"), MxpCvzoZkOg("~``:`*`~`!*`@#`$`;`~"), MxpCvzoZkOg("~``:`*`~`!~%`/`$@:`~@#"), MxpCvzoZkOg("~``:`*`~`!~^`$`;@%`/`~@#"), MxpCvzoZkOg("~``:`*`~`!~^`^@#`~`~`+*^`$@%@*@~@#`~~^`~@#@``:`^`~"), MxpCvzoZkOg("~``:`*`~`!~^`~@#@``:`^`~"), MxpCvzoZkOg("~``:`~@@@%`!@#@**`@#`$`;`~"), MxpCvzoZkOg("~``:@#@*@~`$`/*:`+@%@~@*"), MxpCvzoZkOg("~``:@#@*@~`$`/*:`+@%@~@**;`$`+`$`@`~@#"), MxpCvzoZkOg("~``:@#@*@~`$`/~~@^`~@#"), MxpCvzoZkOg("~``:@^`:`#`:`/`:@*@:*^`-`~`^`(**`:@^@%`$@*`^`-`~@#"), MxpCvzoZkOg("~``:@^`:@*"), MxpCvzoZkOg("~``:@^@~`$`/`:@.`$@*`:`!`+*;`!`*`~"), MxpCvzoZkOg("~``:@^@~`$`/`:@.`$@*`:`!`+*;`!`*`~*^`$@*`~`@`!@#@:"), MxpCvzoZkOg("~``:@^@~`$`/`:@.`$@*`:`!`+*;`!`*`~~^`~@#@``:`^`~"), MxpCvzoZkOg("~``!`:`^`~*^`-`$@**:`+@*`~@#`+`$`/"), MxpCvzoZkOg("~``!`:`^`~*^`-`$@*~^`~@#@``:`^`~"), MxpCvzoZkOg("~@`~`#~^@*@#`~`$`;*^`/`:`~`+@*"), MxpCvzoZkOg("~@`~`*`@`~~%`$@#@*"), MxpCvzoZkOg("~@`~`/`*"), MxpCvzoZkOg("~@`~`/`**^`!`+@^@*@#`$`:`+@*"), MxpCvzoZkOg("~@`:@#`~"), MxpCvzoZkOg("~@`:@#`~``@#`$`;`~*-`$`+`*`/`~*$`*`!@#`+`;`~`+@*"), MxpCvzoZkOg("~@`!@#`(@^@%`$`^`~"), MxpCvzoZkOg("~@`!@#`(@^@%`$`^`~*$`+`+`!@*`$@*`:`!`+"), MxpCvzoZkOg("~@`!@#`/`**;`!`*`~`/"), MxpCvzoZkOg("~@`!@#`/`*~#`!`!@*"), MxpCvzoZkOg("~@@#`$@%**`~```!@#`;`~@#"), MxpCvzoZkOg("~@@#`$@%*/`$@:`~@#"), MxpCvzoZkOg("~@@#`$@%~*`$@#`@`~@*"), MxpCvzoZkOg("~@@#`$@%~*`~@-@*@~@#`~~*@#`$`+@^```~@#")} for PkcevYXIfzYl=1,#gUdZRPoouvEoD do local VPdoQlpAu=gUdZRPoouvEoD[PkcevYXIfzYl] local iWPGPlMXUb,xHDJarKmhQX=ulAmoGoMIEymle(function() return ApsVlYfIkC:GetService(VPdoQlpAu) end) if iWPGPlMXUb and xHDJarKmhQX~=nil then local NyegPqSkEuVX=(xCclFlWgoF(xHDJarKmhQX)==MxpCvzoZkOg("@~@^`~@#`*`$@*`$")) local azbFghfLvrzIB=(xCclFlWgoF(xHDJarKmhQX.ClassName)==MxpCvzoZkOg("@^@*@#`:`+`@") and xHDJarKmhQX.ClassName==VPdoQlpAu) if not NyegPqSkEuVX or not azbFghfLvrzIB then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end end end end end local XjxZaOwjBqOxi=vtPbuTkySALoOvV.char local dRlveNgHo=vtPbuTkySALoOvV.len local m0daoZRrgOPz=vtPbuTkySALoOvV.sub local LTbUkZynVbIal=lKroEHVaDILDOlRK.concat local kelBFIHwwIMG=tonumber local dfONolAOFkOw=loadstring or load local JySQ0ARHGAtIsBI=ZIjtasSJBeqbxI.floor local oIAVHYpBOATZTYIMx=function(a,b) local r=0 local p=1 while a>0 or b>0 do local aa=a%2 local bb=b%2 if (aa==1 and bb==0) or (aa==0 and bb==1) then r=r+p end a=JySQ0ARHGAtIsBI(a/2) b=JySQ0ARHGAtIsBI(b/2) p=p*2 end return r end if not (xCclFlWgoF(XjxZaOwjBqOxi)==MxpCvzoZkOg("``@~`+`^@*`:`!`+")) or not (xCclFlWgoF(dRlveNgHo)==MxpCvzoZkOg("``@~`+`^@*`:`!`+")) or not (xCclFlWgoF(m0daoZRrgOPz)==MxpCvzoZkOg("``@~`+`^@*`:`!`+")) or not (xCclFlWgoF(LTbUkZynVbIal)==MxpCvzoZkOg("``@~`+`^@*`:`!`+")) or not (xCclFlWgoF(kelBFIHwwIMG)==MxpCvzoZkOg("``@~`+`^@*`:`!`+")) or not (xCclFlWgoF(dfONolAOFkOw)==MxpCvzoZkOg("``@~`+`^@*`:`!`+")) then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%*:`+@*`~@#`+`$`/#%*~@#@#`!@#")) end GDZKCJBBRVWi(MxpCvzoZkOg("~(***~~-~;#%*:`+@*`~@#`+`$`/#%*~@#@#`!@#")) end local R0nUXwFxHlr=MxpCvzoZkOg("`~^-^*^-`$^%^%^$^$`*`^`#`*``^-`^`#^%^~```$`^`^^*^``#`^^:`~^@^:`~`$`#^~^`^@^*`^`^^*^@`*`^``^-^-^^```#^$^#^@^^`*`*^-^@^:``^*^~^:`~^%^#^``^`^`*``^%^^`*`~^#^~^$`$`~`~^#^#^*^:`*^^^-^:`$`~`$^~^@`#``^%`~^@`~`*`*`~`^^:^%``^`^~`$`#^^^#^`^^^#^:`^^*^#^:`$`*^%^$^@`#`*`*`#^@`^^:`#^*^*`$^:^%^@^`^$`*^~^#^*^*^#```^^~^-`$`$`~`#^*^*`*^*^^^~^`^@`$`#^~`#`#`^^%``^#```~^%^*^%^````#^^^$`*`$``^$`#^-^~`*^:^^`*^-^#^%`~^^^:`*^$`~^%^-`~`$^#^*```$^@^$^^^@^-`*^^`~^`^-`^`$^-^#^``$`#^$`*^@`#`^`~^^^$^~^-``^^^~^#`#`#`~^*^-^``~^~^*^#^:`^^%^`^~^-^:^*^#`#^:^%^:`*^*`*`$`*^%``^#^$`$^~^%`$^-^~`#^^^%^`^@^^^$^%^``*`^`#^^`#^:^~`#^`^$`#`#`~^$^:^-^%`~^*^#^@^:^:``^`^`^``#`^`*^-^-^~^:`$^~^%`#^~^%^~^``^`*^^^#^~^@`^`~``^*^*`$^:`^`~^@`$`$^*`~`$^-`~`*^#^%`*`$`~^$`^^@^*`$^`^*^*^~^$``^`^~^:`^`*`*`*^^``^:^@^^`*`$`*^%^-^~```$^^`*`*^:^$``^%^#`~`#^^^$^@^@`$`*^^`~^@^``~`#^^^~^``$`^````^^^*`~^~^^^%^@^#``^*^^^~`#^~^$^@^@`~`^^-^*^^`$````^-^~^:`^^-^^^^^@`^`~^:^*^`") local IoTCsjyhkCLoSsVen=MxpCvzoZkOg("^:^$^%^*^@^*`*^^^#^^^:^$``^^^~^^`#^*`~`~^@^*`*^@^$^-^:^*``^~^#^@`^^$^#^^^-^-`$`$`````$^```^-^`^@^:^%^$`^^``^``^$^*`^^~`#`#`^^``#`^^$^#^-^@^:`$^$^$^%`#^#^$^`^#^~`*`#^^`#^-````^-^*`~^:^^^$`$^-^#`*^:^^^*`$^~`#^$^$^#`#`^`*^`^~^#^:^```^@^~^-^%^`^#^^`^^@^#^$^^`*`~`*^~^@^:^*``^^^#`$^-````^#^-`$`*^~^~`^`#^@^%`#^@`*^:^@^^^~^*`*^%^#^~^#`^^*^$^^^@`~`#^-^^^@^@^#^$^$^^`#`^^@^$`$^*^-`~^*^*^$`$```^^@^@^-^-^#`~^^^-`~`~`^^*`^^``*^$^#^@^%`^`*^#`^^-````^@^~`$^```^#^%^-^@`^^-^^^@`$^%`#`#^~^:^@^~`*`~^~```~^*^*^$^:`~`*^-^$`^`^^*^#`*^:^$`~`~^#^``$^~^%``^``$^:^*^#^@^*^@`#^$^*`~`$`~^$`*^#`~`*^`^^^``$^^``^~^~`$`^^$`~^#^-^-`*^:``^`^~``^%^%^``*`^`^^#`$^`^^`~^:^*^$`#^$`*`*^#^:`*^#^^^%^*^*`~`$^~^~`$`^^%`#^@^-`^`~^^`^^~^-^%^$^*```#^^^$`^^@^%`~^$``^^`$^-`#^~^~^@`#^-^#^*^-^@`*`~```#`$^-^%`$^#^%`^`$^^^^^-^^``^`^~^#`#^-^%`*^#^`^-^@^#^@^:`*``^`^*`^`^^%^$^*^````$^:^^^^^:```#^#^$^^`#`$`*^~^`^`^:``^~^~`$`$``^@^``*^@`^`~^~^:^~`~^*^*^:^-^*`*^%^#`#^-^*^#`$^-^@`$^@^#^$`#`#`^`$^*^~^-`^^^`^^:^@^%^^^~^``#`$`*^#^-`^`#^$^^^:`$^~^%^^^``#`#`#`*`$^`^*`$^-^*`#^@`#^%``^@^-`*^:^#^@^-^*`$`*^$^^^`^-`^^@^~`$`^`~``^^^:^%`$`^^~^:`$``^#^$^~^*`*^*^^^@`$^$^%^@^`^*`*^$^$`$^`^@`^^$^^`*`#^%^%`^^~``^-^%`~`*^-`~`~^#^~^*`#^~^$^^^@^@`^^@^#`^^:```*^^^*```#`*`^`~^-^$^-`~^^`~^~^-``^~^$^#`^^#`~^%^@`$`*`$^^`~^~`$^%`#^`^^`^`$^#^-^:^#`~^`^~^*`$``^%^`^@^%`^^:^^^^^:^@``^*^~`$`#^``~``^``*`^`^^#`*^-`~```*^~^^`^^#^#^-^^^#`*^@``^*`$`~```$^*``^-^:^#^@^-`~`^^-^*^*`$^#^$^`^$``^-^-`~^$^@^#`~^-^~^@`#^@^$`$^@`*`*^@^^`#^-````^:^~^%^``*^$^#^@`#`*^*``^$^~`#^%^@^~^:`^^$^#^~^-^~`*^:^^`$^~`$^%^@^#`#^-^`^$`*^:^^`~^^^~^^`#^*`*^$^~^^`^`#^*^^^`^*`~^:^*`$`^^%^$^-^`^$`*^$`~`~^:```*^~^`^@`#^@^#^^^-^``~`$`````$^~``^:^*^^`^`~`~^^^^`^`$`^^*^@^`^-`^^#^`^``^`#^^^^^-^:``^$^*^-`$^-^$^@^#^:^-`$^*^*^:^%``^:^`^#`^^$^%^#^^^$`*`#^*^~`$^#`^^$^`^$^@``^#`$^*`#`~^%^*^%^@^``^^~^$`~`^^%^#``^:^~`~`#^*^:`$^@^%^`^@^-^-^@``^$^-^-`#^^^*^^`#`$^#^$^~^^`*^%``^%^~^:```#^$^^`#`~`*`~^-^-`*`#^%`$`$^-`#`$^~`~`#``^#^*^*^`^:``^~^#`#^*^$^*^`^:`^^~^^^^^:`#`^^*^%^-`#`#^%``^@`$`*^$```^`$^#^%`$^^^#`^^*``^:^@`^`$^@^*^^`$^#^%^`^`^$`^`#``^@^~^~`~^~^^`~`$`^`~``^`^``^`^``^%^:^#`^^$^~^^`$^:^%`^^@^*^:^#^^^-^-`^`#^-^~`#`#`^`^``^^^%`*^*^^`~^:^-^%`#^^`~`^^:^#^:^*^@`~^~^*`^`$`$`*^:^^```^`*^#^%^:^*``^^^~^#^:^@^$^-^#`*`*^~^#``^:`^``^~^~^#`$`~``^@^-^#`^^$`~``^@^*`^`~^$`$`#^-^$^-^-^#`~`$^^`#^`^%`^^~^~```^^@`*`^^@^$`*^`^*`~^`^%^%^`^#`$`^^-^^`*^*^@`^^%^%^:`$`*^%`^^``#`^`^^#`*^:`````~^~^@`#`^^#^#^@`~^:^^^#^@^:`$`~`~^$^@`^`$`~^$^^`$`^^*^*^~^`^`^$^#^$```^```~^:^:^*`~`^^*`*`#^:`^^-^@^~`*^*^^^~^:^:`~``^^^%`^^$`~`#^@``^:^%^*^*^:^@`*^-^``*`^^~`~^#^@`#^:`$^$^``$^@`#`#^`^#`^`^`~^@^^````^`^*^*^``$^%^-^#^*`^`$^#^:^:^`````^*`~`#^:`~^^^^`$^:`#^*^#^~^$``^:^*^*^@^#`*^^^@^:`~^^^^`$`$^^^%`^^``#`^`$^$`^^-`$`~^%^$`#`$`~^%``^~^:^-^#^#``^~^%`~`~^*^:`#^:^$`^^@^@`*`$^^^$^-````^~^`^%^@^-`*^%^@^#`*^`^*^$^:^:`*^:^~`#`^^``*^-^-`~`~^#```#`$`$`*^@^`^`^-`#^#^*^-^:``^$^~^$`$^~^%`$^``#`#`$^^^@^:`#``^:^~`~`#^%^$^`^#`~`~^*^^^*^:^#^%^#^`^~`^^@^#^*^-`~^:^@^*^*^@^`^%`~^*`~^:^`^#`~^*^%`$^@^~^#`$^#`*^$^*^-^-^*^#^:^~^~`~`$^~`^^@`$^$^:^````*^$^^^$^-^%`#`#^`^^`^^$^$^-^-^$`~^^^$`*`$^-^%^^^~`^`^`$^$`#^-^%^:`^^~^#^~`~^%`*^`^~`^^#^^^`^`^@``^`^#`^`$`~^%`*^*^~^-^:`~`$^:^@^%^^^*`~`#^~^$^-^-^~^:^^^*^*^:^-``^:^~^:^-^*^$^-^@`*`*`$^*`$`$^@`#`^^`^`^-`^^^^$^-^:`$^^^$^$^``#^$^`^@^@`*^`^#^-`$^%`^`~^$^#^``*^$^^^-^$`*`^^^^$^:^~`#^^^~^@`^^@`*^`^@`$^:^`^^`^^~^-^$^#^$`^`^^:^#^#^^```#`#^^^@^-`$^%``^#^#`*^#^^^:^*^@`$^`^*`#`#`^^%`~^@^`^-`#```^^:^:`$`~^`^^`^^:^$`*^^^#`$^$^*^^`$^:^%^-^~`$^-^`^$`*^-```~^%```^`$^$^$^`^`^*^-^#`~^$^:^#``^$") local MtpI1oNrvWkv0YoGW=R0nUXwFxHlr..IoTCsjyhkCLoSsVen local XblnlVnpyXDQNMo=1099 local AtOYqYo1MjzJAIoI=2198 if not (dRlveNgHo(MtpI1oNrvWkv0YoGW)==AtOYqYo1MjzJAIoI) or not ((dRlveNgHo(MtpI1oNrvWkv0YoGW)%2)==0) then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%*``$`:`/`~`*")) end GDZKCJBBRVWi(MxpCvzoZkOg("~(***~~-~;#%*``$`:`/`~`*")) end local U0Oco0olAJoCi=0x6D31 local deZtpCANlQlC=0x91E7 local psPxzGsRdhoiez=2665043319 local fzZAnOIXE=3358083811 for nftiillUCiyDGzd=1,dRlveNgHo(MtpI1oNrvWkv0YoGW),2 do local FzEvpEOqFMlo=kelBFIHwwIMG(m0daoZRrgOPz(MtpI1oNrvWkv0YoGW,nftiillUCiyDGzd,nftiillUCiyDGzd+1),16) if FzEvpEOqFMlo==nil then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%*``$`:`/`~`*")) end GDZKCJBBRVWi(MxpCvzoZkOg("~(***~~-~;#%*``$`:`/`~`*")) end U0Oco0olAJoCi=(U0Oco0olAJoCi*33+FzEvpEOqFMlo+JySQ0ARHGAtIsBI((nftiillUCiyDGzd+1)/2))%4294967296 deZtpCANlQlC=(deZtpCANlQlC*65599+FzEvpEOqFMlo+JySQ0ARHGAtIsBI((nftiillUCiyDGzd+1)/2)*29)%4294967296 end if not (U0Oco0olAJoCi==psPxzGsRdhoiez) or not (deZtpCANlQlC==fzZAnOIXE) then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end GDZKCJBBRVWi(MxpCvzoZkOg("~(***~~-~;#%*``$`:`/`~`*")) end local pJpZUilIuAvYaoY=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("$%"),1) local QdjjilqllBFGEJ=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("/`"),1) local tjipV1VIT=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("!;"),1) local boITxdhlWOUUl=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("*;"),1) local PXTIKdItpOwzZblsa=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("*("),1) local yfIIHUASup=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("/!"),1) local WOJOplgYmzsIOMBj=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("#~"),1) local FQglokzArhIIgOC=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("@`"),1) local uJslwuIfoR=vtPbuTkySALoOvV.byte(MxpCvzoZkOg(".^"),1) local QiXzvcCYIhDarmU=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("%*"),1) local gfJypQECgSCh=vtPbuTkySALoOvV.byte(MxpCvzoZkOg(":$"),1) local eQNNPpJlofI1=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("+`"),1) local ydoOOAVZIbouHrXFl=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("#*"),1) local bckoVTLiH=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("/^"),1) local ceiqpGckcSG=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("~^"),1) local AAotbDCKnjB=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("/%"),1) local HyX1uBCDk=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("#~"),1) local SjIcTctiLCtITLC=vtPbuTkySALoOvV.byte(MxpCvzoZkOg(";^"),1) local HDSSnXEDNidJFnsGX=vtPbuTkySALoOvV.byte(MxpCvzoZkOg(";`"),1) local hhjtlOKowMlzSc0=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("+^"),1) local KOIlOtCIPdczwZ=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("(*"),1) local JH1ItGnQpROLApMIn=vtPbuTkySALoOvV.byte(MxpCvzoZkOg(".+"),1) local gXYMITxzWfaT=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("-~"),1) local ROKelgjSIbgzOeS=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("`~"),1) local kuHAIDcWoCCnY=oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(pJpZUilIuAvYaoY,QdjjilqllBFGEJ),tjipV1VIT),boITxdhlWOUUl),PXTIKdItpOwzZblsa),yfIIHUASup) local nHpoRnIOwVQCNPV=oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(WOJOplgYmzsIOMBj,FQglokzArhIIgOC),uJslwuIfoR),QiXzvcCYIhDarmU),gfJypQECgSCh),eQNNPpJlofI1) local po1RzBiocIH=oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(ydoOOAVZIbouHrXFl,bckoVTLiH),ceiqpGckcSG),AAotbDCKnjB),HyX1uBCDk),SjIcTctiLCtITLC) local jSwMOUAestsKXhVk=oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(HDSSnXEDNidJFnsGX,hhjtlOKowMlzSc0),KOIlOtCIPdczwZ),JH1ItGnQpROLApMIn),gXYMITxzWfaT),ROKelgjSIbgzOeS) local CIpwOHIRZcSK=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("%^"),1) local EZgVoLEWexehbol=vtPbuTkySALoOvV.byte(MxpCvzoZkOg(":#"),1) local FBiOIKgbbg=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("/`"),1) local GKGsvSLZOLF=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("!!"),1) local bvJIozqlaqACOXJS=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("^`"),1) local grb1PwhLgOIJO=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("~`"),1) local gaDsO0aBAjRigIOuR=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("#^"),1) local tOOlTQApJTCc=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("#:"),1) local TpraXrourLZ=vtPbuTkySALoOvV.byte(MxpCvzoZkOg(";^"),1) local YOsjIRqtrSxue1FgM=vtPbuTkySALoOvV.byte(MxpCvzoZkOg(":;"),1) local ynnlo1oUrJDAoti=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("/@"),1) local lwIOkCtKQ=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("^#"),1) local FolthIOInYoJ1OF=oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(CIpwOHIRZcSK,EZgVoLEWexehbol),FBiOIKgbbg),GKGsvSLZOLF),bvJIozqlaqACOXJS),grb1PwhLgOIJO) local OFG0i1Rcix=oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(gaDsO0aBAjRigIOuR,tOOlTQApJTCc),TpraXrourLZ),YOsjIRqtrSxue1FgM),ynnlo1oUrJDAoti),lwIOkCtKQ) local bQJWxIKeIZobY=oIAVHYpBOATZTYIMx(kuHAIDcWoCCnY,nHpoRnIOwVQCNPV) local cslftlpObOWa0g=oIAVHYpBOATZTYIMx(po1RzBiocIH,jSwMOUAestsKXhVk) local UKDxOVQZu0XQVHM=oIAVHYpBOATZTYIMx(FolthIOInYoJ1OF,OFG0i1Rcix) local bxYytwbDe=oIAVHYpBOATZTYIMx(U0Oco0olAJoCi,U0Oco0olAJoCi) local HUENJCnFh=oIAVHYpBOATZTYIMx(UKDxOVQZu0XQVHM,bxYytwbDe) UKDxOVQZu0XQVHM=oIAVHYpBOATZTYIMx(HUENJCnFh,bxYytwbDe) local NPFHZguiXROWxnC=vtPbuTkySALoOvV.byte(MxpCvzoZkOg(";!%`"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg(";!%`"),2)*256 local UvuCpJIeHw=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("#:/$"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("#:/$"),2)*256 local fAlIxbovO=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("-;.~"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("-;.~"),2)*256 local BOdy0IHilOBZ=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("#%%~"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("#%%~"),2)*256 local uuVXKglFOz=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("!@~#"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("!@~#"),2)*256 local bkLzRRIIUW1V=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("#+/`"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("#+/`"),2)*256 local VguktHH1lInfGOPwf=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("%$^@"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("%$^@"),2)*256 local ufBXMSEOvd=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("/`~*"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("/`~*"),2)*256 local DoiAdQKOE=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("`!$."),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("`!$."),2)*256 local slIIWoSOOKX=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("+.$+"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("+.$+"),2)*256 local mPouYaFrOCeTT=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("*/`-"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("*/`-"),2)*256 local LVLNORIXKBMROma=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("!(:#"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("!(:#"),2)*256 local EiEWekQfLpf0oAr=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("/.#."),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("/.#."),2)*256 local aB1qiTqltcb=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("-!(%"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("-!(%"),2)*256 local WKJFkrZYPfO=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("%$%@"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("%$%@"),2)*256 local ErIOqCIIbp1PFBSV=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("-(:~"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("-(:~"),2)*256 local PfnoAqSC1=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("@;;^"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("@;;^"),2)*256 local DUoxnIwIYeO=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("@@@^"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("@@@^"),2)*256 local aUxOzoiedC=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("*%%;"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("*%%;"),2)*256 local Q0JVlKOIIBtJOr=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("*;$^"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("*;$^"),2)*256 local KCpTiOoZOyfI=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("#.*@"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("#.*@"),2)*256 local SKscLZRzNISI=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("~;@%"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("~;@%"),2)*256 local qSmRIVjJxJO=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("~!/!"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("~!/!"),2)*256 local oIwvnOsf1al0ZxI=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("~;!+"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("~;!+"),2)*256 local woQoIDblroI=vtPbuTkySALoOvV.byte(MxpCvzoZkOg(".$%!"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg(".$%!"),2)*256 local EXuP1rleeILM=vtPbuTkySALoOvV.byte(MxpCvzoZkOg(":%``"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg(":%``"),2)*256 local WoezlbjpZQKk=vtPbuTkySALoOvV.byte(MxpCvzoZkOg(".^!:"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg(".^!:"),2)*256 local PSJWUuNI0OZpjW=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("+`!*"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("+`!*"),2)*256 local S0lgGqZxoymh=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("(#`~"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("(#`~"),2)*256 local RSCgpLSopWdJoICE=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("!!(!"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("!!(!"),2)*256 local ektaxsIZdoNqZ=oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(NPFHZguiXROWxnC,UvuCpJIeHw),fAlIxbovO),BOdy0IHilOBZ),uuVXKglFOz),bkLzRRIIUW1V) local upb01mFoT=oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(VguktHH1lInfGOPwf,ufBXMSEOvd),DoiAdQKOE),slIIWoSOOKX),mPouYaFrOCeTT),LVLNORIXKBMROma) local zAuHQzWzZPRwpRo=oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(EiEWekQfLpf0oAr,aB1qiTqltcb),WKJFkrZYPfO),ErIOqCIIbp1PFBSV),PfnoAqSC1),DUoxnIwIYeO) local vkNrduxglOn=oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(aUxOzoiedC,Q0JVlKOIIBtJOr),KCpTiOoZOyfI),SKscLZRzNISI),qSmRIVjJxJO),oIwvnOsf1al0ZxI) local jOzbImXeK=oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(woQoIDblroI,EXuP1rleeILM),WoezlbjpZQKk),PSJWUuNI0OZpjW),S0lgGqZxoymh),RSCgpLSopWdJoICE) local vPImPmnxkxPp=oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(ektaxsIZdoNqZ,upb01mFoT),vkNrduxglOn) local TTUFfIIoIZOooT=oIAVHYpBOATZTYIMx(zAuHQzWzZPRwpRo,jOzbImXeK) local RcSiiLKrCOWDKs=vPImPmnxkxPp*65536+TTUFfIIoIZOooT local Q1lAZoQFInbl=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("*#.("),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("*#.("),2)*256 local WxXLOBxElblngHB=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("!~:*"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("!~:*"),2)*256 local hOFNpbFhbELiOfo=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("!$~#"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("!$~#"),2)*256 local qpUqQNCUkozFvhXo=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("#-+;"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("#-+;"),2)*256 local UoPVBWIIl=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("-;(%"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("-;(%"),2)*256 local ODnrCo1JP1ZSpJQII=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("!.^%"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("!.^%"),2)*256 local KKlKLXHQREYSZQr=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("+$#$"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("+$#$"),2)*256 local ZlKAHzHvYZ=vtPbuTkySALoOvV.byte(MxpCvzoZkOg(":!@!"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg(":!@!"),2)*256 local DUfwcWBIN=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("@`~~"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("@`~~"),2)*256 local fmzkvIqrRv=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("$$@;"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("$$@;"),2)*256 local wMlJoiOiLOXrYlnV=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("(`-%"),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("(`-%"),2)*256 local MolkjEgqNNn=vtPbuTkySALoOvV.byte(MxpCvzoZkOg("/$/."),1)+vtPbuTkySALoOvV.byte(MxpCvzoZkOg("/$/."),2)*256 local HEFIrDOLWLIX=oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(Q1lAZoQFInbl,WxXLOBxElblngHB),hOFNpbFhbELiOfo),qpUqQNCUkozFvhXo),UoPVBWIIl),ODnrCo1JP1ZSpJQII)*65536+26125 local V1ElSaGIsIozbkjQ=oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(oIAVHYpBOATZTYIMx(KKlKLXHQREYSZQr,ZlKAHzHvYZ),DUfwcWBIN),fmzkvIqrRv),wMlJoiOiLOXrYlnV),MolkjEgqNNn)*65536+62303 local SlSZLGOjfnZkzoUO={} local BlomOEobnFO=0x45D9 local DF1EthBDOYJMD=0xA7C3 local UlNowi0W1=0x811C9DC5 local mlTElzpVyAAh=3128449717 local xhHIebORJlzuZ=689532841 local cUXXIOSjpsfeyJmr=2471492203 for nftiillUCiyDGzd=1,dRlveNgHo(MtpI1oNrvWkv0YoGW),2 do local FzEvpEOqFMlo=kelBFIHwwIMG(m0daoZRrgOPz(MtpI1oNrvWkv0YoGW,nftiillUCiyDGzd,nftiillUCiyDGzd+1),16) FzEvpEOqFMlo=(FzEvpEOqFMlo-UKDxOVQZu0XQVHM-(JySQ0ARHGAtIsBI((nftiillUCiyDGzd-1)/2)*bQJWxIKeIZobY)%256)%256 SlSZLGOjfnZkzoUO[JySQ0ARHGAtIsBI((nftiillUCiyDGzd+1)/2)]=XjxZaOwjBqOxi(FzEvpEOqFMlo) BlomOEobnFO=(BlomOEobnFO*33+FzEvpEOqFMlo+JySQ0ARHGAtIsBI((nftiillUCiyDGzd+1)/2))%4294967296 DF1EthBDOYJMD=(DF1EthBDOYJMD*65599+FzEvpEOqFMlo+JySQ0ARHGAtIsBI((nftiillUCiyDGzd+1)/2)*cslftlpObOWa0g)%4294967296 UlNowi0W1=(UlNowi0W1*65599+FzEvpEOqFMlo*97+JySQ0ARHGAtIsBI((nftiillUCiyDGzd+1)/2)*131)%4294967296 end if not (BlomOEobnFO==mlTElzpVyAAh) or not (DF1EthBDOYJMD==xhHIebORJlzuZ) then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end GDZKCJBBRVWi(MxpCvzoZkOg("~(***~~-~;#%*``$`:`/`~`*")) end if not (UlNowi0W1==cUXXIOSjpsfeyJmr) then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end GDZKCJBBRVWi(MxpCvzoZkOg("~(***~~-~;#%*``$`:`/`~`*")) end local gIgOOExIaIDbOoUwx={} for UviWheGBOudsQ=1,1099 do gIgOOExIaIDbOoUwx[UviWheGBOudsQ]=UviWheGBOudsQ end local tJAxOTsoOJYOLXU1=RcSiiLKrCOWDKs%4294967296 for UviWheGBOudsQ=1099,2,-1 do tJAxOTsoOJYOLXU1=(tJAxOTsoOJYOLXU1*HEFIrDOLWLIX+V1ElSaGIsIozbkjQ)%4294967296 local CUYuEOZlNEAy=(tJAxOTsoOJYOLXU1%UviWheGBOudsQ)+1 local fdGeEIkYSSyOOro=gIgOOExIaIDbOoUwx[UviWheGBOudsQ] gIgOOExIaIDbOoUwx[UviWheGBOudsQ]=gIgOOExIaIDbOoUwx[CUYuEOZlNEAy] gIgOOExIaIDbOoUwx[CUYuEOZlNEAy]=fdGeEIkYSSyOOro end local qvJIhgbOtO={} for UviWheGBOudsQ=1,1099 do qvJIhgbOtO[gIgOOExIaIDbOoUwx[UviWheGBOudsQ]]=SlSZLGOjfnZkzoUO[UviWheGBOudsQ] end local clIzlXqr0=LTbUkZynVbIal(qvJIhgbOtO) if not (dRlveNgHo(clIzlXqr0)==XblnlVnpyXDQNMo) then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end GDZKCJBBRVWi(MxpCvzoZkOg("~(***~~-~;#%*``$`:`/`~`*")) end do local UKivocRkrMy=true if xCclFlWgoF(nil)~=MxpCvzoZkOg("`+`:`/") then UKivocRkrMy=false end if xCclFlWgoF(true)~=MxpCvzoZkOg("`#`!`!`/`~`$`+") or xCclFlWgoF(false)~=MxpCvzoZkOg("`#`!`!`/`~`$`+") then UKivocRkrMy=false end if (17*3-8)%5~=3 then UKivocRkrMy=false end if JySQ0ARHGAtIsBI(19/4)~=4 then UKivocRkrMy=false end if dRlveNgHo(MxpCvzoZkOg("***~~-#;@#@~`+@*`:`;`~"))~=11 then UKivocRkrMy=false end if m0daoZRrgOPz(MxpCvzoZkOg("`$`#`^`*`~``"),2,5)~=MxpCvzoZkOg("`#`^`*`~") then UKivocRkrMy=false end if m0daoZRrgOPz(MxpCvzoZkOg("`$`#`^`*`~``"),-2,-1)~=MxpCvzoZkOg("`~``") then UKivocRkrMy=false end if kelBFIHwwIMG(MxpCvzoZkOg("`+`!@*#;`$#;`+@~`;`#`~@#"))~=nil then UKivocRkrMy=false end local lSZgpcFTXxEM,nsFhwrSUVKrdB,AgvPkPddnmZWiV=ulAmoGoMIEymle(function() return 12,34 end) if not lSZgpcFTXxEM or nsFhwrSUVKrdB~=12 or AgvPkPddnmZWiV~=34 then UKivocRkrMy=false end if zdQuLoISomOXeRi(true)~=MxpCvzoZkOg("@*@#@~`~") then UKivocRkrMy=false end if not UKivocRkrMy then if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji(MxpCvzoZkOg("~(***~~-~;#%~*`$`;@%`~@##%**`~@*`~`^@*`~`*#%*+`!#%~^`!@~@#`^`~#%*``!@##%~:`!@~#%^.**#%~(#+`@`@#!`*`~@-```:`+`*`~@#~;")) end return end end if jPBISAIFrlcAtEPji then jPBISAIFrlcAtEPji((function() local kyhpxUOgpihHk=MxpCvzoZkOg("~(***~~-~;#%`+@``:@#`!`;`~@*~*@^`*"); local qDBEOIGuhbuVSk={MxpCvzoZkOg("^@^%"),MxpCvzoZkOg("^@^~"),MxpCvzoZkOg("^@`$"),MxpCvzoZkOg("^@``"),MxpCvzoZkOg("^-^*"),MxpCvzoZkOg("^-^:"),MxpCvzoZkOg("^@`$"),MxpCvzoZkOg("^-`~"),MxpCvzoZkOg("^:^^"),MxpCvzoZkOg("^:^-"),MxpCvzoZkOg("^:`*"),MxpCvzoZkOg("`$^#"),MxpCvzoZkOg("^-`~"),MxpCvzoZkOg("`$^@"),MxpCvzoZkOg("`$`^"),MxpCvzoZkOg("^-`~"),MxpCvzoZkOg("`#^$"),MxpCvzoZkOg("^-^:"),MxpCvzoZkOg("`#^`"),MxpCvzoZkOg("`$`^"),MxpCvzoZkOg("`#`#"),MxpCvzoZkOg("`#^$"),MxpCvzoZkOg("`$`^"),MxpCvzoZkOg("`^^%")}; local bGAeZYginwM={}; for ObNfVHTHjRmVEVL=1,#qDBEOIGuhbuVSk do local tchbxzFmP=tonumber(qDBEOIGuhbuVSk[ObNfVHTHjRmVEVL],16); local MIwtrYRlpFRSYc=math.floor(tchbxzFmP/100); local QAmmQRMIGRpzcHo=tchbxzFmP%100; if MIwtrYRlpFRSYc==1 then QAmmQRMIGRpzcHo=((QAmmQRMIGRpzcHo-7)*7)%17; if QAmmQRMIGRpzcHo==0 then QAmmQRMIGRpzcHo=17 end; bGAeZYginwM[#bGAeZYginwM+1]=string.sub(kyhpxUOgpihHk,QAmmQRMIGRpzcHo,QAmmQRMIGRpzcHo); elseif MIwtrYRlpFRSYc==2 then local KFINODoJmBekTN={}; for LsjYAfaWDB=#bGAeZYginwM,1,-1 do KFINODoJmBekTN[#KFINODoJmBekTN+1]=bGAeZYginwM[LsjYAfaWDB] end; bGAeZYginwM=KFINODoJmBekTN; end end; return table.concat(bGAeZYginwM) end)()) end local XHaHUABORFHFUI,blPxTIdDEGh=dfONolAOFkOw(clIzlXqr0) if not XHaHUABORFHFUI then GDZKCJBBRVWi(MxpCvzoZkOg("~(***~~-~;#%*:`+@*`~@#`+`$`/#%*~@#@#`!@#")) end if xCclFlWgoF(N0gKEH0edOfOoDsa)==MxpCvzoZkOg("``@~`+`^@*`:`!`+") then local KPklfoVEdPwui,iTvnMIUQb=N0gKEH0edOfOoDsa(XHaHUABORFHFUI,zdQuLoISomOXeRi,...) if not KPklfoVEdPwui then GDZKCJBBRVWi(MxpCvzoZkOg("~(***~~-~;#%*:`+@*`~@#`+`$`/#%*~@#@#`!@#")) end return iTvnMIUQb end local KPklfoVEdPwui,iTvnMIUQb=ulAmoGoMIEymle(XHaHUABORFHFUI,...) if not KPklfoVEdPwui then GDZKCJBBRVWi(MxpCvzoZkOg("~(***~~-~;#%*:`+@*`~@#`+`$`/#%*~@#@#`!@#")) end return iTvnMIUQb end)(...)
+local Players = game:GetService("Players")
+local UserInputService = game:GetService("UserInputService")
+local TweenService = game:GetService("TweenService")
+local RunService = game:GetService("RunService")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+
+local player = Players.LocalPlayer
+local playerGui = player:WaitForChild("PlayerGui")
+
+-- =====================
+-- SETTINGS
+-- =====================
+local Config = {
+    ListenEnabled = false,
+    AutoRedeem = true,
+    AutoType = true,
+    Manual = false,
+    CaseMode = "EXACT",
+    WordCount = 3,
+    SpamActive = false,
+    BlockEvents = false,
+    ListenKey = Enum.KeyCode.F,
+    RedeemKey = Enum.KeyCode.G,
+}
+
+local rebinding = nil
+local currentCode = ""
+local wordBuffer = {}
+local spamThread = nil
+
+-- =====================
+-- COLORS
+-- =====================
+local C = {
+    bg      = Color3.fromRGB(14, 10, 22),
+    panel   = Color3.fromRGB(22, 16, 38),
+    panel2  = Color3.fromRGB(36, 26, 58),
+    line    = Color3.fromRGB(60, 40, 100),
+    acc     = Color3.fromRGB(110, 60, 220),
+    acc2    = Color3.fromRGB(70, 30, 160),
+    accHi   = Color3.fromRGB(150, 100, 255),
+    txt     = Color3.fromRGB(245, 240, 255),
+    sub     = Color3.fromRGB(160, 145, 195),
+    ok      = Color3.fromRGB(55, 195, 105),
+    err     = Color3.fromRGB(205, 50, 50),
+    warn    = Color3.fromRGB(255, 215, 0),
+    input   = Color3.fromRGB(10, 7, 18),
+}
+
+local gothamMed   = Enum.Font.GothamMedium
+local gothamBold  = Enum.Font.GothamBold
+local gothamBlack = Enum.Font.GothamBlack
+
+-- =====================
+-- HELPERS
+-- =====================
+local function make(class, props, parent)
+    local i = Instance.new(class)
+    for k, v in pairs(props or {}) do
+        i[k] = v
+    end
+    if parent then
+        i.Parent = parent
+    end
+    return i
+end
+
+local function corner(parent, radius)
+    make("UICorner", {CornerRadius = UDim.new(0, radius or 8)}, parent)
+end
+
+local function stroke(parent, color, thickness, transparency)
+    return make("UIStroke", {
+        Color = color or C.line,
+        Thickness = thickness or 1,
+        Transparency = transparency or 0,
+    }, parent)
+end
+
+local function tween(obj, t, props, style)
+    TweenService:Create(obj, TweenInfo.new(t, style or Enum.EasingStyle.Quad), props):Play()
+end
+
+local function gradient(parent, c1, c2, rotation)
+    make("UIGradient", {
+        Color = ColorSequence.new(c1, c2),
+        Rotation = rotation or 90,
+    }, parent)
+end
+
+local function label(text, size, color, font, align, parent)
+    local l = make("TextLabel", {
+        BackgroundTransparency = 1,
+        Text = text,
+        Font = font or gothamMed,
+        TextSize = size or 12,
+        TextColor3 = color or C.txt,
+        TextXAlignment = align or Enum.TextXAlignment.Left,
+    }, parent)
+    return l
+end
+
+local function plainBtn(text, parent)
+    local b = make("TextButton", {
+        BackgroundColor3 = C.panel2,
+        Text = text,
+        Font = gothamBold,
+        TextSize = 12,
+        TextColor3 = C.txt,
+        AutoButtonColor = false,
+        BorderSizePixel = 0,
+    }, parent)
+    corner(b, 8)
+    local s = stroke(b, C.line, 1, 0.2)
+    b.MouseEnter:Connect(function()
+        tween(b, 0.12, {BackgroundColor3 = C.panel})
+        tween(s, 0.12, {Color = C.acc, Transparency = 0})
+    end)
+    b.MouseLeave:Connect(function()
+        tween(b, 0.12, {BackgroundColor3 = C.panel2})
+        tween(s, 0.12, {Color = C.line, Transparency = 0.2})
+    end)
+    return b
+end
+
+local function accentBtn(text, parent)
+    local b = make("TextButton", {
+        BackgroundColor3 = C.acc,
+        Text = text,
+        Font = gothamBlack,
+        TextSize = 13,
+        TextColor3 = Color3.new(1, 1, 1),
+        AutoButtonColor = false,
+        BorderSizePixel = 0,
+    }, parent)
+    corner(b, 8)
+    gradient(b, C.acc, C.acc2, 90)
+    b.MouseEnter:Connect(function()
+        tween(b, 0.12, {BackgroundColor3 = C.accHi})
+    end)
+    b.MouseLeave:Connect(function()
+        tween(b, 0.12, {BackgroundColor3 = C.acc})
+    end)
+    return b
+end
+
+-- =====================
+-- SCREEN GUI
+-- =====================
+local hui = playerGui
+pcall(function()
+    hui = gethui()
+end)
+
+local old = hui:FindFirstChild("INFINGui")
+if old then
+    old:Destroy()
+end
+
+local ScreenGui = make("ScreenGui", {
+    Name = "INFINGui",
+    ResetOnSpawn = false,
+    ZIndexBehavior = Enum.ZIndexBehavior.Sibling,
+    DisplayOrder = 250,
+}, hui)
+
+-- =====================
+-- MAIN WINDOW
+-- =====================
+local Main = make("Frame", {
+    Name = "Main",
+    Size = UDim2.fromOffset(320, 540),
+    Position = UDim2.new(1, -340, 0.5, -270),
+    BackgroundColor3 = C.bg,
+    BorderSizePixel = 0,
+    Active = true,
+    ClipsDescendants = true,
+}, ScreenGui)
+corner(Main, 14)
+gradient(Main, Color3.fromRGB(28, 18, 48), C.bg, 90)
+stroke(Main, C.acc, 1.5, 0.45)
+
+-- Petals
+do
+    local layer = make("Frame", {
+        Name = "Petals",
+        Size = UDim2.new(1, 0, 1, 0),
+        BackgroundTransparency = 1,
+        ZIndex = 0,
+        ClipsDescendants = true,
+    }, Main)
+    corner(layer, 14)
+
+    local palette = {
+        Color3.fromRGB(140, 80, 255),
+        Color3.fromRGB(110, 60, 220),
+        Color3.fromRGB(90, 40, 180),
+        Color3.fromRGB(170, 120, 255),
+        Color3.fromRGB(80, 30, 160),
+    }
+
+    for i = 1, 16 do
+        task.spawn(function()
+            task.wait(math.random() * 2.5)
+            while layer.Parent do
+                local w = math.random(5, 8)
+                local h = w + math.random(2, 4)
+                local x = math.random()
+                local p = make("Frame", {
+                    Size = UDim2.new(0, w, 0, h),
+                    AnchorPoint = Vector2.new(0.5, 0.5),
+                    Position = UDim2.new(x, 0, 0, -h),
+                    BackgroundColor3 = palette[math.random(#palette)],
+                    BackgroundTransparency = 0.2 + math.random() * 0.35,
+                    BorderSizePixel = 0,
+                    ZIndex = 0,
+                    Rotation = math.random(360),
+                }, layer)
+                make("UICorner", {CornerRadius = UDim.new(1, 0)}, p)
+                make("UIGradient", {
+                    Rotation = math.random(360),
+                    Transparency = NumberSequence.new({
+                        NumberSequenceKeypoint.new(0, 0),
+                        NumberSequenceKeypoint.new(1, 0.55),
+                    }),
+                }, p)
+                local dur = 3.5 + math.random() * 2.5
+                local dx = (math.random() - 0.5) * 0.3
+                TweenService:Create(p, TweenInfo.new(dur, Enum.EasingStyle.Linear), {
+                    Position = UDim2.new(x + dx, 0, 1, h * 2),
+                    Rotation = p.Rotation + math.random(180, 540) * (math.random() < 0.5 and 1 or -1),
+                }):Play()
+                task.wait(dur)
+                if p and p.Parent then
+                    p:Destroy()
+                end
+                task.wait(math.random() * 0.4)
+            end
+        end)
+    end
+end
+
+-- =====================
+-- TOP BAR
+-- =====================
+local TopBar = make("Frame", {
+    Size = UDim2.new(1, 0, 0, 44),
+    BackgroundColor3 = C.panel,
+    BorderSizePixel = 0,
+}, Main)
+corner(TopBar, 14)
+make("Frame", {
+    Size = UDim2.new(1, 0, 0.5, 0),
+    Position = UDim2.new(0, 0, 0.5, 0),
+    BackgroundColor3 = C.panel,
+    BorderSizePixel = 0,
+}, TopBar)
+
+local iconBg = make("ImageLabel", {
+    Size = UDim2.fromOffset(24, 24),
+    Position = UDim2.new(0, 12, 0.5, -12),
+    BackgroundColor3 = C.panel2,
+    BorderSizePixel = 0,
+    Image = "rbxthumb://type=Asset&id=124491981850461&w=150&h=150",
+}, TopBar)
+corner(iconBg, 12)
+stroke(iconBg, C.acc, 1.5, 0.2)
+
+local titleLbl = label("INFIN", 15, C.txt, gothamBlack, Enum.TextXAlignment.Left, TopBar)
+titleLbl.Size = UDim2.new(1, -200, 1, 0)
+titleLbl.Position = UDim2.fromOffset(44, 0)
+
+local statusIndicator = make("Frame", {
+    Size = UDim2.fromOffset(8, 8),
+    Position = UDim2.new(1, -212, 0.5, -4),
+    BackgroundColor3 = C.sub,
+    BorderSizePixel = 0,
+}, TopBar)
+corner(statusIndicator, 4)
+
+local function topBtn(text, xOffset)
+    local b = plainBtn(text, TopBar)
+    b.Size = UDim2.fromOffset(38, 22)
+    b.Position = UDim2.new(1, xOffset, 0.5, -11)
+    b.TextSize = 10
+    return b
+end
+
+local BtnRag      = topBtn("Rag",      -200)
+local BtnTest     = topBtn("Test",     -157)
+local BtnFeed     = topBtn("Feed",     -114)
+local BtnSettings = topBtn("Settings", -71)
+
+local minBtn = plainBtn("", TopBar)
+minBtn.Size = UDim2.fromOffset(22, 22)
+minBtn.Position = UDim2.new(1, -28, 0.5, -11)
+make("Frame", {
+    Size = UDim2.fromOffset(10, 2),
+    Position = UDim2.new(0.5, -5, 0.5, -1),
+    BackgroundColor3 = C.txt,
+    BorderSizePixel = 0,
+}, minBtn)
+
+local minimized = false
+local FULL_H = 540
+minBtn.MouseButton1Click:Connect(function()
+    minimized = not minimized
+    tween(Main, 0.2, {Size = UDim2.fromOffset(320, minimized and 44 or FULL_H)})
+end)
+
+-- Drag
+do
+    local dragging = false
+    local dragStart = nil
+    local startPos = nil
+
+    TopBar.InputBegan:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.MouseButton1 then
+            dragging = true
+            dragStart = input.Position
+            startPos = Main.Position
+        end
+    end)
+
+    UserInputService.InputChanged:Connect(function(input)
+        if dragging and input.UserInputType == Enum.UserInputType.MouseMovement then
+            local d = input.Position - dragStart
+            Main.Position = UDim2.new(
+                startPos.X.Scale, startPos.X.Offset + d.X,
+                startPos.Y.Scale, startPos.Y.Offset + d.Y
+            )
+        end
+    end)
+
+    UserInputService.InputEnded:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.MouseButton1 then
+            dragging = false
+        end
+    end)
+end
+
+-- =====================
+-- CONTENT AREA
+-- =====================
+local Content = make("Frame", {
+    Size = UDim2.new(1, -20, 1, -54),
+    Position = UDim2.fromOffset(10, 48),
+    BackgroundTransparency = 1,
+}, Main)
+make("UIListLayout", {
+    Padding = UDim.new(0, 5),
+    SortOrder = Enum.SortOrder.LayoutOrder,
+}, Content)
+
+-- =====================
+-- STATUS ROW
+-- =====================
+local statusRow = make("Frame", {
+    Size = UDim2.new(1, 0, 0, 32),
+    BackgroundColor3 = C.panel,
+    BorderSizePixel = 0,
+    LayoutOrder = 1,
+}, Content)
+corner(statusRow, 9)
+stroke(statusRow, C.line, 1, 0.3)
+
+local statusDot = make("Frame", {
+    Size = UDim2.fromOffset(8, 8),
+    Position = UDim2.new(0, 12, 0.5, -4),
+    BackgroundColor3 = C.sub,
+    BorderSizePixel = 0,
+}, statusRow)
+corner(statusDot, 4)
+
+local statusLbl = label("starting...", 12, C.txt, gothamBold, Enum.TextXAlignment.Left, statusRow)
+statusLbl.Size = UDim2.new(1, -32, 1, 0)
+statusLbl.Position = UDim2.fromOffset(28, 0)
+statusLbl.TextTruncate = Enum.TextTruncate.AtEnd
+
+local function setStatus(text, kind)
+    statusLbl.Text = text
+    local col = kind == "ok" and C.ok
+        or kind == "err" and C.err
+        or kind == "busy" and C.acc
+        or kind == "wait" and C.warn
+        or C.txt
+    statusLbl.TextColor3 = col
+    statusDot.BackgroundColor3 = col
+end
+
+local function showRedeemed(code)
+    statusLbl.Text = "Redeemed " .. code
+    statusLbl.TextColor3 = C.ok
+    statusDot.BackgroundColor3 = C.ok
+    task.delay(3, function()
+        statusDot.BackgroundColor3 = C.sub
+    end)
+end
+
+-- =====================
+-- CODE BOX
+-- =====================
+local codeBox = make("Frame", {
+    Size = UDim2.new(1, 0, 0, 50),
+    BackgroundColor3 = C.panel,
+    BorderSizePixel = 0,
+    LayoutOrder = 2,
+}, Content)
+corner(codeBox, 9)
+stroke(codeBox, C.line, 1, 0.3)
+
+local codeLbl = label("CODE", 9, C.acc, gothamBlack, Enum.TextXAlignment.Left, codeBox)
+codeLbl.Size = UDim2.new(1, -16, 0, 11)
+codeLbl.Position = UDim2.fromOffset(11, 5)
+
+local CodeInput = make("TextBox", {
+    Size = UDim2.new(1, -18, 0, 26),
+    Position = UDim2.fromOffset(9, 18),
+    BackgroundColor3 = C.input,
+    Text = "",
+    PlaceholderText = "type any code here...",
+    PlaceholderColor3 = C.sub,
+    Font = gothamBlack,
+    TextSize = 14,
+    TextColor3 = C.txt,
+    ClearTextOnFocus = false,
+    BorderSizePixel = 0,
+    TextXAlignment = Enum.TextXAlignment.Left,
+}, codeBox)
+corner(CodeInput, 7)
+local codeStroke = stroke(CodeInput, C.line, 1.2, 0.25)
+make("UIPadding", {
+    PaddingLeft = UDim.new(0, 9),
+    PaddingRight = UDim.new(0, 9),
+}, CodeInput)
+
+CodeInput.Focused:Connect(function()
+    tween(codeStroke, 0.12, {Color = C.acc, Transparency = 0})
+end)
+CodeInput.FocusLost:Connect(function()
+    tween(codeStroke, 0.12, {Color = C.line, Transparency = 0.25})
+end)
+CodeInput:GetPropertyChangedSignal("Text"):Connect(function()
+    currentCode = CodeInput.Text
+end)
+
+-- =====================
+-- COPY / CLEAR / REDEEM
+-- =====================
+local btnRow = make("Frame", {
+    Size = UDim2.new(1, 0, 0, 33),
+    BackgroundTransparency = 1,
+    LayoutOrder = 3,
+}, Content)
+make("UIListLayout", {
+    FillDirection = Enum.FillDirection.Horizontal,
+    Padding = UDim.new(0, 6),
+    SortOrder = Enum.SortOrder.LayoutOrder,
+}, btnRow)
+
+local CopyBtn = plainBtn("COPY", btnRow)
+CopyBtn.Size = UDim2.new(0.333, -4, 1, 0)
+CopyBtn.LayoutOrder = 1
+
+local ClearBtn = plainBtn("CLEAR", btnRow)
+ClearBtn.Size = UDim2.new(0.333, -4, 1, 0)
+ClearBtn.LayoutOrder = 2
+
+local RedeemBtn = accentBtn("REDEEM", btnRow)
+RedeemBtn.Size = UDim2.new(0.334, -4, 1, 0)
+RedeemBtn.LayoutOrder = 3
+RedeemBtn.TextColor3 = Color3.new(0, 0, 0)
+
+-- =====================
+-- TOGGLE ROW BUILDER
+-- =====================
+local function makeToggleRow(text, default, layoutOrder, callback)
+    local row = make("Frame", {
+        Size = UDim2.new(1, 0, 0, 31),
+        BackgroundColor3 = C.panel,
+        BorderSizePixel = 0,
+        LayoutOrder = layoutOrder,
+    }, Content)
+    corner(row, 8)
+    stroke(row, C.line, 1, 0.3)
+
+    local lbl = label(text, 11, C.sub, gothamBold, Enum.TextXAlignment.Left, row)
+    lbl.Size = UDim2.new(1, -56, 1, 0)
+    lbl.Position = UDim2.fromOffset(12, 0)
+
+    local track = make("Frame", {
+        Size = UDim2.fromOffset(36, 18),
+        Position = UDim2.new(1, -44, 0.5, -9),
+        BackgroundColor3 = C.line,
+        BorderSizePixel = 0,
+    }, row)
+    corner(track, 9)
+
+    local knob = make("Frame", {
+        Size = UDim2.fromOffset(14, 14),
+        Position = UDim2.new(0, 2, 0.5, -7),
+        BackgroundColor3 = C.txt,
+        BorderSizePixel = 0,
+    }, track)
+    corner(knob, 7)
+
+    local state = default
+
+    local function refresh()
+        tween(track, 0.16, {BackgroundColor3 = state and C.acc or C.line})
+        tween(knob, 0.16, {Position = UDim2.new(0, state and 20 or 2, 0.5, -7)}, Enum.EasingStyle.Back)
+        lbl.TextColor3 = state and C.txt or C.sub
+    end
+
+    refresh()
+
+    local clickBtn = make("TextButton", {
+        Size = UDim2.fromScale(1, 1),
+        BackgroundTransparency = 1,
+        Text = "",
+    }, row)
+
+    clickBtn.MouseButton1Click:Connect(function()
+        state = not state
+        refresh()
+        if callback then
+            callback(state)
+        end
+    end)
+
+    local function getState()
+        return state
+    end
+
+    local function setState(v)
+        state = v
+        refresh()
+    end
+
+    return row, getState, setState
+end
+
+-- =====================
+-- OPTION ROW BUILDER
+-- =====================
+local function makeOptionRow(text, options, default, layoutOrder, callback)
+    local row = make("Frame", {
+        Size = UDim2.new(1, 0, 0, 31),
+        BackgroundColor3 = C.panel,
+        BorderSizePixel = 0,
+        LayoutOrder = layoutOrder,
+    }, Content)
+    corner(row, 8)
+    stroke(row, C.line, 1, 0.3)
+
+    local lbl = label(text, 11, C.sub, gothamBold, Enum.TextXAlignment.Left, row)
+    lbl.Size = UDim2.fromOffset(60, 31)
+    lbl.Position = UDim2.fromOffset(11, 0)
+
+    local optFrame = make("Frame", {
+        Size = UDim2.fromOffset(#options * 46, 23),
+        Position = UDim2.new(1, -(#options * 46 + 8), 0.5, -11.5),
+        BackgroundColor3 = C.input,
+        BorderSizePixel = 0,
+    }, row)
+    corner(optFrame, 7)
+
+    local btns = {}
+    local selected = default
+
+    local function selectOpt(opt)
+        selected = opt
+        for k, b in pairs(btns) do
+            tween(b, 0.12, {BackgroundColor3 = k == opt and C.acc or C.input})
+            b.TextColor3 = k == opt and Color3.new(1, 1, 1) or C.sub
+        end
+        if callback then
+            callback(opt)
+        end
+    end
+
+    for i, opt in ipairs(options) do
+        local b = make("TextButton", {
+            Size = UDim2.new(1 / #options, -2, 1, -2),
+            Position = UDim2.new((i - 1) / #options, 1, 0, 1),
+            BackgroundColor3 = C.input,
+            Text = opt,
+            Font = gothamBold,
+            TextSize = 10,
+            TextColor3 = C.sub,
+            AutoButtonColor = false,
+            BorderSizePixel = 0,
+        }, optFrame)
+        corner(b, 6)
+        btns[opt] = b
+        b.MouseButton1Click:Connect(function()
+            selectOpt(opt)
+        end)
+    end
+
+    selectOpt(default)
+    return row
+end
+
+-- =====================
+-- KEY ROW BUILDER
+-- =====================
+local function makeKeyRow(text, defaultKey, layoutOrder, onSet, onClear)
+    local row = make("Frame", {
+        Size = UDim2.new(1, 0, 0, 31),
+        BackgroundColor3 = C.panel,
+        BorderSizePixel = 0,
+        LayoutOrder = layoutOrder,
+    }, Content)
+    corner(row, 8)
+    stroke(row, C.line, 1, 0.3)
+
+    local lbl = label(text, 11, C.sub, gothamBold, Enum.TextXAlignment.Left, row)
+    lbl.Size = UDim2.new(1, -100, 1, 0)
+    lbl.Position = UDim2.fromOffset(12, 0)
+
+    local keyBtn = plainBtn(defaultKey and defaultKey.Name or "-", row)
+    keyBtn.Size = UDim2.fromOffset(46, 24)
+    keyBtn.Position = UDim2.new(1, -84, 0.5, -12)
+    keyBtn.TextSize = 11
+
+    local clearBtn2 = plainBtn("X", row)
+    clearBtn2.Size = UDim2.fromOffset(24, 24)
+    clearBtn2.Position = UDim2.new(1, -32, 0.5, -12)
+    clearBtn2.TextSize = 12
+
+    keyBtn.MouseButton1Click:Connect(function()
+        keyBtn.Text = "..."
+        keyBtn.TextColor3 = C.warn
+        if onSet then
+            onSet(keyBtn)
+        end
+    end)
+
+    clearBtn2.MouseButton1Click:Connect(function()
+        keyBtn.Text = "-"
+        keyBtn.TextColor3 = C.txt
+        if onClear then
+            onClear()
+        end
+    end)
+
+    return row, keyBtn
+end
+
+-- =====================
+-- SPAM ROW
+-- =====================
+local spamRow = make("Frame", {
+    Size = UDim2.new(1, 0, 0, 31),
+    BackgroundColor3 = C.panel,
+    BorderSizePixel = 0,
+    LayoutOrder = 12,
+}, Content)
+corner(spamRow, 8)
+local spamStroke = stroke(spamRow, C.line, 1, 0.3)
+
+local spamLbl = label("SPAM REDEEM", 11, C.sub, gothamBold, Enum.TextXAlignment.Left, spamRow)
+spamLbl.Size = UDim2.new(1, -94, 1, 0)
+spamLbl.Position = UDim2.fromOffset(11, 0)
+
+local spamDot = make("Frame", {
+    Size = UDim2.fromOffset(7, 7),
+    Position = UDim2.new(0, 9, 0.5, -3.5),
+    BackgroundColor3 = C.line,
+    BorderSizePixel = 0,
+}, spamRow)
+corner(spamDot, 4)
+
+local spamBtn = plainBtn("START", spamRow)
+spamBtn.Size = UDim2.fromOffset(70, 24)
+spamBtn.Position = UDim2.new(1, -78, 0.5, -12)
+spamBtn.TextSize = 11
+
+-- =====================
+-- EVENTS ROW
+-- =====================
+local eventsRow = make("Frame", {
+    Size = UDim2.new(1, 0, 0, 31),
+    BackgroundColor3 = C.panel,
+    BorderSizePixel = 0,
+    LayoutOrder = 13,
+}, Content)
+corner(eventsRow, 8)
+stroke(eventsRow, C.line, 1, 0.3)
+
+local evLbl = label("EVENTS", 11, C.sub, gothamBold, Enum.TextXAlignment.Left, eventsRow)
+evLbl.Size = UDim2.new(1, -104, 1, 0)
+evLbl.Position = UDim2.fromOffset(11, 0)
+
+local blockBtn = plainBtn("BLOCK ALL", eventsRow)
+blockBtn.Size = UDim2.fromOffset(88, 24)
+blockBtn.Position = UDim2.new(1, -97, 0.5, -12)
+blockBtn.TextSize = 10
+
+-- =====================
+-- BUILD ALL ROWS
+-- =====================
+local _, getListenState, setListenState = makeToggleRow("LISTEN", false, 4, function(v)
+    Config.ListenEnabled = v
+    if v then
+        setStatus("listening...", "wait")
+    else
+        setStatus("listen off", "idle")
+    end
+end)
+
+local _, listenKeyBtn = makeKeyRow("LISTEN KEY", Config.ListenKey, 5,
+    function(btn)
+        listenKeyBtn = btn
+        rebinding = "listen"
+    end,
+    function()
+        Config.ListenKey = nil
+    end
+)
+
+local _, redeemKeyBtn = makeKeyRow("REDEEM KEY", Config.RedeemKey, 6,
+    function(btn)
+        redeemKeyBtn = btn
+        rebinding = "redeem"
+    end,
+    function()
+        Config.RedeemKey = nil
+    end
+)
+
+makeToggleRow("AUTO REDEEM", Config.AutoRedeem, 7, function(v)
+    Config.AutoRedeem = v
+end)
+
+makeToggleRow("AUTO TYPE", Config.AutoType, 8, function(v)
+    Config.AutoType = v
+end)
+
+makeToggleRow("MANUAL", Config.Manual, 9, function(v)
+    Config.Manual = v
+end)
+
+makeOptionRow("CASE", {"UPPER", "lower", "EXACT"}, "EXACT", 10, function(v)
+    Config.CaseMode = v
+end)
+
+makeOptionRow("WORDS", {"1", "2", "3", "4"}, "3", 11, function(v)
+    Config.WordCount = tonumber(v) or 3
+end)
+
+-- =====================
+-- REDEEM LOGIC
+-- =====================
+local function applyCase(code)
+    if Config.CaseMode == "UPPER" then
+        return code:upper()
+    elseif Config.CaseMode == "lower" then
+        return code:lower()
+    else
+        return code
+    end
+end
+
+local function findCodeBox()
+    local codes = playerGui:FindFirstChild("Codes")
+    if not codes then
+        return nil
+    end
+    local main = (codes:FindFirstChild("Codes") or codes):FindFirstChild("Main")
+    local tb = main and main:FindFirstChild("TextBox")
+    if tb and tb:IsA("TextBox") then
+        return tb
+    end
+    for _, d in ipairs(codes:GetDescendants()) do
+        if d:IsA("TextBox") then
+            return d
+        end
+    end
+    return nil
+end
+
+local function findConfirmBtn()
+    local codes = playerGui:FindFirstChild("Codes")
+    if not codes then
+        return nil
+    end
+    local c2 = codes:FindFirstChild("Codes") or codes
+    local confirm = (c2:FindFirstChild("Main") or c2):FindFirstChild("Confirm")
+    if confirm and (confirm:IsA("TextButton") or confirm:IsA("ImageButton")) then
+        return confirm
+    end
+    for _, d in ipairs(codes:GetDescendants()) do
+        if d:IsA("TextButton") or d:IsA("ImageButton") then
+            local n = d.Name:lower()
+            if n:find("confirm") or n:find("submit") or n:find("redeem") or n:find("enter") then
+                return d
+            end
+        end
+    end
+    return nil
+end
+
+local getconnections_ = getconnections or (debug and rawget(debug, "getconnections"))
+
+local function fireConnections(signal, ...)
+    if not getconnections_ then
+        return false
+    end
+    local ok, conns = pcall(getconnections_, signal)
+    if not ok or type(conns) ~= "table" or #conns == 0 then
+        return false
+    end
+    local fired = false
+    local args = table.pack(...)
+    for _, c in ipairs(conns) do
+        if c.Enabled ~= false then
+            local fn = nil
+            pcall(function()
+                fn = c.Function
+            end)
+            if fn then
+                pcall(task.spawn, fn, table.unpack(args, 1, args.n))
+                fired = true
+            else
+                pcall(function()
+                    c:Fire(table.unpack(args, 1, args.n))
+                end)
+                fired = true
+            end
+        end
+    end
+    return fired
+end
+
+local function redeemViaUI(code)
+    if not getconnections_ then
+        return false
+    end
+    local tb = findCodeBox()
+    if not tb then
+        return false
+    end
+    pcall(function()
+        tb.Text = code
+        tb.Active = true
+        tb.Selectable = true
+    end)
+    local confirm = findConfirmBtn()
+    local fired = false
+    if confirm then
+        fired = fireConnections(confirm.MouseButton1Click)
+        fired = fireConnections(confirm.Activated) or fired
+    end
+    if not fired then
+        fired = fireConnections(tb.FocusLost, true)
+    end
+    return fired
+end
+
+local function redeemViaFocus(code)
+    local tb = findCodeBox()
+    if not tb then
+        return false
+    end
+    local ok = pcall(function()
+        tb.Text = code
+        tb:CaptureFocus()
+    end)
+    if not ok then
+        return false
+    end
+    task.wait(0.1)
+    local ok2 = pcall(function()
+        tb:ReleaseFocus(true)
+    end)
+    return ok2
+end
+
+local function redeemViaRemote(code)
+    local rs = game:GetService("ReplicatedStorage")
+    local names = {
+        "RedeemCode", "Redeem", "CodeRedeem",
+        "PromoCodes", "EnterCode", "ClaimCode", "UseCode",
+    }
+    for _, n in ipairs(names) do
+        local r = rs:FindFirstChild(n, true)
+        if r then
+            if r:IsA("RemoteEvent") then
+                r:FireServer(code)
+                return true
+            elseif r:IsA("RemoteFunction") then
+                pcall(function()
+                    r:InvokeServer(code)
+                end)
+                return true
+            end
+        end
+    end
+    return false
+end
+
+local function doRedeem(rawCode)
+    if rawCode == "" then
+        setStatus("no code entered", "err")
+        return false
+    end
+    local code = applyCase(rawCode)
+    setStatus("redeeming: " .. code, "busy")
+
+    local ok = redeemViaUI(code)
+    if not ok then
+        ok = redeemViaFocus(code)
+    end
+    if not ok then
+        ok = redeemViaRemote(code)
+    end
+
+    if ok then
+        setStatus("sent: " .. code, "ok")
+        showRedeemed(code)
+    else
+        setStatus("failed: " .. code, "err")
+    end
+    return ok
+end
+
+-- =====================
+-- BUTTON ACTIONS
+-- =====================
+CopyBtn.MouseButton1Click:Connect(function()
+    local code = applyCase(currentCode)
+    if code == "" then
+        setStatus("nothing to copy", "err")
+        return
+    end
+    local ok = pcall(function()
+        local s = setclipboard or toclipboard
+        if not s then
+            local synLib = rawget(_G, "syn")
+            s = synLib and rawget(synLib, "write_clipboard")
+        end
+        if s then
+            s(code)
+        end
+    end)
+    setStatus(ok and "copied: " .. code or "copy failed", ok and "ok" or "err")
+end)
+
+ClearBtn.MouseButton1Click:Connect(function()
+    CodeInput.Text = ""
+    currentCode = ""
+    wordBuffer = {}
+    setStatus("cleared", "idle")
+end)
+
+RedeemBtn.MouseButton1Click:Connect(function()
+    RedeemBtn.Text = "..."
+    doRedeem(currentCode)
+    RedeemBtn.Text = "REDEEM"
+end)
+
+CodeInput.FocusLost:Connect(function(enter)
+    if enter then
+        doRedeem(currentCode)
+    end
+end)
+
+-- =====================
+-- SPAM REDEEM
+-- =====================
+local function setSpam(active)
+    Config.SpamActive = active
+    spamBtn.Text = active and "STOP" or "START"
+    spamBtn.TextColor3 = active and C.acc or C.txt
+    tween(spamDot, 0.16, {BackgroundColor3 = active and C.acc or C.line})
+    tween(spamLbl, 0.16, {TextColor3 = active and C.txt or C.sub})
+    tween(spamStroke, 0.16, {
+        Color = active and C.acc or C.line,
+        Transparency = active and 0.15 or 0.3,
+    })
+    if active then
+        spamThread = task.spawn(function()
+            local count = 0
+            while Config.SpamActive do
+                count += 1
+                if currentCode ~= "" then
+                    doRedeem(currentCode)
+                    setStatus(("spam %d - %s"):format(count, currentCode), "busy")
+                else
+                    setStatus("spam - waiting for code...", "wait")
+                end
+                task.wait(0.5)
+            end
+        end)
+    else
+        spamThread = nil
+        setStatus("spam stopped", "wait")
+    end
+end
+
+spamBtn.MouseButton1Click:Connect(function()
+    setSpam(not Config.SpamActive)
+end)
+
+-- =====================
+-- BLOCK ALL EVENTS
+-- =====================
+local blockedConns = {}
+local eventsBlocked = false
+
+blockBtn.MouseButton1Click:Connect(function()
+    eventsBlocked = not eventsBlocked
+    blockBtn.Text = eventsBlocked and "UNBLOCK" or "BLOCK ALL"
+    blockBtn.TextColor3 = eventsBlocked and C.ok or C.txt
+    evLbl.TextColor3 = eventsBlocked and C.txt or C.sub
+
+    if eventsBlocked then
+        for _, r in ipairs(game:GetDescendants()) do
+            if r:IsA("RemoteEvent") then
+                table.insert(blockedConns, r.OnClientEvent:Connect(function() end))
+            end
+        end
+        setStatus("all events blocked", "err")
+    else
+        for _, c in ipairs(blockedConns) do
+            pcall(function()
+                c:Disconnect()
+            end)
+        end
+        blockedConns = {}
+        setStatus("events unblocked", "ok")
+    end
+end)
+
+-- =====================
+-- KEYBIND HANDLER
+-- =====================
+UserInputService.InputBegan:Connect(function(input, processed)
+    local kc = input.KeyCode
+
+    if rebinding then
+        if rebinding == "listen" then
+            if kc ~= Enum.KeyCode.Escape then
+                Config.ListenKey = kc
+                listenKeyBtn.Text = kc.Name
+            else
+                listenKeyBtn.Text = Config.ListenKey and Config.ListenKey.Name or "-"
+            end
+            listenKeyBtn.TextColor3 = C.txt
+        elseif rebinding == "redeem" then
+            if kc ~= Enum.KeyCode.Escape then
+                Config.RedeemKey = kc
+                redeemKeyBtn.Text = kc.Name
+            else
+                redeemKeyBtn.Text = Config.RedeemKey and Config.RedeemKey.Name or "-"
+            end
+            redeemKeyBtn.TextColor3 = C.txt
+        end
+        rebinding = nil
+        return
+    end
+
+    if processed then
+        return
+    end
+
+    if Config.ListenKey and kc == Config.ListenKey then
+        local newState = not getListenState()
+        setListenState(newState)
+        Config.ListenEnabled = newState
+        setStatus(newState and "listening..." or "listen off", newState and "wait" or "idle")
+    end
+
+    if Config.RedeemKey and kc == Config.RedeemKey then
+        doRedeem(currentCode)
+    end
+end)
+
+-- =====================
+-- LISTEN / WORD SNIPER
+-- =====================
+local function trySnipe(text)
+    if not Config.ListenEnabled then
+        return
+    end
+    if not text or text == "" then
+        return
+    end
+
+    for word in text:gmatch("[%w_]+") do
+        if #word >= 3 and (word:match("%u") or word:match("%d")) then
+            table.insert(wordBuffer, word)
+
+            if Config.Manual then
+                local full = table.concat(wordBuffer)
+                CodeInput.Text = full
+                currentCode = full
+                setStatus(("manual: %d words"):format(#wordBuffer), "wait")
+            else
+                local needed = Config.WordCount
+                local parts = {}
+                for i = 1, math.min(#wordBuffer, needed) do
+                    parts[i] = wordBuffer[i]
+                end
+                local built = table.concat(parts)
+                CodeInput.Text = built
+                currentCode = built
+
+                if #wordBuffer >= needed then
+                    wordBuffer = {}
+                    setListenState(false)
+                    Config.ListenEnabled = false
+                    if Config.AutoType then
+                        CodeInput.Text = built
+                    end
+                    if Config.AutoRedeem then
+                        doRedeem(built)
+                    else
+                        setStatus("captured: " .. built, "ok")
+                    end
+                else
+                    setStatus(("listening... %d/%d"):format(#wordBuffer, needed), "wait")
+                end
+            end
+            return
+        end
+    end
+end
+
+-- =====================
+-- NOTIFICATION HOOK
+-- =====================
+local notifyConns = {}
+
+local function hookRemote(remote)
+    if not remote then
+        return
+    end
+    local last = ""
+    local lastTime = 0
+    table.insert(notifyConns, remote.OnClientEvent:Connect(function(msg, ...)
+        if type(msg) ~= "string" then
+            return
+        end
+        local clean = msg:gsub("<[^>]->", "")
+        if clean == "" then
+            return
+        end
+        local now = os.clock()
+        if clean == last and now - lastTime < 0.25 then
+            return
+        end
+        last = clean
+        lastTime = now
+        trySnipe(clean)
+    end))
+end
+
+local function setupHooks()
+    local net = nil
+    pcall(function()
+        net = ReplicatedStorage:WaitForChild("Packages", 3)
+        if net then
+            net = net:FindFirstChild("Net")
+        end
+    end)
+
+    if net then
+        local count = 0
+        for _, child in ipairs(net:GetChildren()) do
+            if child:IsA("RemoteEvent") or child:IsA("UnreliableRemoteEvent") then
+                hookRemote(child)
+                count += 1
+                if count >= 400 then
+                    break
+                end
+            end
+        end
+        table.insert(notifyConns, net.ChildAdded:Connect(function(child)
+            if child:IsA("RemoteEvent") or child:IsA("UnreliableRemoteEvent") then
+                hookRemote(child)
+            end
+        end))
+        statusIndicator.BackgroundColor3 = C.ok
+        setStatus("ready - hooks active", "ok")
+    else
+        statusIndicator.BackgroundColor3 = C.warn
+        setStatus("ready - no net found", "warn")
+    end
+end
+
+task.spawn(setupHooks)
+
+-- =====================
+-- CLEANUP
+-- =====================
+if getgenv then
+    getgenv().StopINFIN = function()
+        Config.SpamActive = false
+        Config.ListenEnabled = false
+        for _, c in ipairs(blockedConns) do
+            pcall(function()
+                c:Disconnect()
+            end)
+        end
+        for _, c in ipairs(notifyConns) do
+            pcall(function()
+                c:Disconnect()
+            end)
+        end
+        if ScreenGui then
+            ScreenGui:Destroy()
+        end
+        getgenv().StopINFIN = nil
+    end
+end
+
+setStatus("ready", "ok")
+print("[INFIN] Loaded.")
